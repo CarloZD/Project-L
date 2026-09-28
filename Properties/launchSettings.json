@@ -1,0 +1,18 @@
+{
+  "profiles": {
+    "Project Hero L": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\carlo\\Downloads\\Godot_v4.7.2-stable_mono_win64\\Godot_v4.7.2-stable_mono_win64.exe",
+      "commandLineArgs": "--path .",
+      "workingDirectory": ".",
+      "nativeDebugging": false
+    },
+    "Editor de Godot": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\carlo\\Downloads\\Godot_v4.7.2-stable_mono_win64\\Godot_v4.7.2-stable_mono_win64.exe",
+      "commandLineArgs": "--path . --editor",
+      "workingDirectory": ".",
+      "nativeDebugging": false
+    }
+  }
+}
