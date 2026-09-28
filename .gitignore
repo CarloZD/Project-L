@@ -1,5 +1,19 @@
+# Godot
+.godot/
+*.tmp
+/android/
+
+# .NET
+bin/
+obj/
+.vs/
+*.user
+
+# Python (prototipo)
 __pycache__/
 *.pyc
 .venv/
 venv/
+
+# Editor
 .vscode/

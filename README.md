@@ -1,6 +1,6 @@
 # Project Hero "L"
 
-> Videojuego RPG 2D desarrollado en Python y Pygame.
+> Videojuego RPG 2D desarrollado en C# con Godot.
 
 ## 📖 Descripción
 
@@ -10,7 +10,7 @@ El proyecto combina el aprendizaje de programación con la creación de un RPG e
 
 La historia gira en torno a Leo, un héroe que deberá enfrentarse a diferentes enemigos, desarrollar sus habilidades y afrontar las consecuencias de sus propias decisiones.
 
-Durante las primeras etapas, el desarrollo se centrará en construir una base técnica sólida y modular utilizando Python y Pygame. Posteriormente, se incorporarán los personajes, escenarios, enemigos y acontecimientos del universo narrativo.
+Durante las primeras etapas, el desarrollo se centrará en construir una base técnica sólida y modular utilizando C# y el motor Godot. Posteriormente, se incorporarán los personajes, escenarios, enemigos y acontecimientos del universo narrativo.
 
 El objetivo a largo plazo es desarrollar un videojuego funcional que permita explorar el universo de Leo de manera interactiva.
 
@@ -18,7 +18,7 @@ El objetivo a largo plazo es desarrollar un videojuego funcional que permita exp
 
 ## 🎯 Objetivos
 
-- Aprender desarrollo de videojuegos mediante Python y Pygame.
+- Aprender desarrollo de videojuegos mediante C# y Godot.
 - Diseñar una arquitectura modular, organizada y escalable.
 - Implementar progresivamente las mecánicas principales de un RPG.
 - Crear sistemas independientes y reutilizables.
@@ -33,8 +33,9 @@ El objetivo a largo plazo es desarrollar un videojuego funcional que permita exp
 
 | Tecnología | Uso |
 |---|---|
-| Python | Lenguaje de programación |
-| Pygame | Desarrollo del videojuego |
+| C# | Lenguaje de programación |
+| Godot 4.7 (.NET) | Motor del videojuego |
+| .NET SDK 10 | Compilación del código C# |
 | Visual Studio Code | Editor de código |
 | Git | Control de versiones |
 
@@ -42,12 +43,16 @@ El objetivo a largo plazo es desarrollar un videojuego funcional que permita exp
 
 ## ▶️ Cómo ejecutar
 
-Requisitos: Python 3.10 o superior.
+Requisitos:
 
-```bash
-pip install -r requirements.txt
-python main.py
-```
+1. **Godot 4.7.2, versión .NET** (la que dice ".NET", no la estándar).
+2. **.NET SDK 10** (viene con Visual Studio).
+
+Pasos:
+
+1. Abrir Godot y elegir **Importar**.
+2. Seleccionar el archivo `project.godot` de esta carpeta.
+3. Pulsar **F5** para compilar y ejecutar.
 
 Controles: **WASD** o **flechas** para moverse, **Esc** para salir.
 
@@ -55,11 +60,20 @@ Controles: **WASD** o **flechas** para moverse, **Esc** para salir.
 
 ```
 Project L/
-├── main.py           # Punto de entrada
-├── settings.py       # Configuración general (ventana, colores, velocidad)
-├── game.py           # Control del juego y ciclo principal
-├── player.py         # Jugador provisional
-├── requirements.txt
+├── project.godot         # Configuración del proyecto Godot
+├── ProjectHeroL.csproj   # Proyecto C#
+├── ProjectHeroL.sln
+├── escenas/
+│   ├── juego.tscn        # Escena principal
+│   └── jugador.tscn      # Jugador provisional
+├── scripts/
+│   ├── Juego.cs          # Control del juego (FPS, salir con Esc)
+│   ├── Jugador.cs        # Movimiento y límites de pantalla
+│   └── Controles.cs      # Registro de WASD y flechas
+├── LORE.md               # Reglas del mundo
+├── CAPITULO_1.md         # Guion del Capítulo 1
+├── CAPITULO_2.md
+├── CAPITULO_3.md
 └── README.md
 ```
 
@@ -362,13 +376,13 @@ Estas características se implementarán progresivamente, según las necesidades
 
 ## 🚧 Estado actual
 
-**Etapa:** Fase 1 completada (base del juego).
+**Etapa:** Fase 1 completada (base del juego), migrada a Godot con C#.
 
-**Versión del documento de visión:** 1.1
+**Versión del documento de visión:** 1.2
 
 Actualmente se cuenta con una visión definida del proyecto, sus objetivos, tecnologías, universo narrativo y fases de desarrollo.
 
-La Fase 1 ya cuenta con una ventana a 60 FPS y un personaje provisional que se mueve con WASD o flechas dentro de los límites de pantalla.
+El proyecto se migró de Pygame a **Godot con C#** (la versión en Pygame queda en el historial de Git) para contar con editor de mapas, animaciones, física e interfaz. La Fase 1 ya cuenta con una ventana a 60 FPS y un personaje provisional que se mueve con WASD o flechas dentro de los límites de pantalla.
 
 El siguiente paso será comenzar la Fase 2: Mundo.
 
