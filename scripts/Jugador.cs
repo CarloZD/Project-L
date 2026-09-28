@@ -2,15 +2,19 @@ using Godot;
 
 /// <summary>
 /// Jugador provisional: un cuadrado verde controlado con WASD o flechas.
-/// Es un CharacterBody2D para que en la Fase 2 choque con paredes sin cambiar nada.
+/// Choca con las paredes del mapa y lleva una cámara que lo sigue.
 /// </summary>
 public partial class Jugador : CharacterBody2D
 {
     /// <summary>Velocidad en píxeles por segundo. Editable desde el Inspector.</summary>
-    [Export] public float Velocidad = 300f;
+    [Export] public float Velocidad = 200f;
 
-    /// <summary>Tamaño del cuadrado, usado para no salir de la pantalla.</summary>
-    [Export] public Vector2 Tamano = new Vector2(40, 40);
+    private Camera2D _camara;
+
+    public override void _Ready()
+    {
+        _camara = GetNode<Camera2D>("Camara");
+    }
 
     public override void _PhysicsProcess(double delta)
     {
@@ -19,18 +23,20 @@ public partial class Jugador : CharacterBody2D
             Controles.Izquierda, Controles.Derecha,
             Controles.Arriba, Controles.Abajo);
 
-        // Velocity está en píxeles por segundo; MoveAndSlide aplica el delta.
+        // MoveAndSlide detiene al jugador en las paredes y lo deja deslizarse
+        // a lo largo de ellas en vez de quedarse pegado.
         Velocity = direccion * Velocidad;
         MoveAndSlide();
-
-        LimitarAPantalla();
     }
 
-    /// <summary>Mantiene al jugador dentro de la ventana.</summary>
-    private void LimitarAPantalla()
+    /// <summary>
+    /// Impide que la cámara muestre lo que hay fuera del mapa.
+    /// </summary>
+    public void LimitarCamara(Rect2 limites)
     {
-        Rect2 area = GetViewportRect();
-        Vector2 mitad = Tamano / 2;
-        GlobalPosition = GlobalPosition.Clamp(area.Position + mitad, area.End - mitad);
+        _camara.LimitLeft = (int)limites.Position.X;
+        _camara.LimitTop = (int)limites.Position.Y;
+        _camara.LimitRight = (int)limites.End.X;
+        _camara.LimitBottom = (int)limites.End.Y;
     }
 }

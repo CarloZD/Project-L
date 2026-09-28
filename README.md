@@ -66,9 +66,11 @@ Project L/
 ├── escenas/
 │   ├── juego.tscn        # Escena principal
 │   └── jugador.tscn      # Jugador provisional
+├── recursos/
+│   └── tiles/            # Tiles de prueba y TileSet
 ├── scripts/
 │   ├── Juego.cs          # Control del juego (FPS, salir con Esc)
-│   ├── Jugador.cs        # Movimiento y límites de pantalla
+│   ├── Jugador.cs        # Movimiento, colisiones y cámara
 │   └── Controles.cs      # Registro de WASD y flechas
 ├── LORE.md               # Reglas del mundo
 ├── CAPITULO_1.md         # Guion del Capítulo 1
@@ -99,12 +101,12 @@ Construir una ventana funcional donde el jugador esté representado inicialmente
 
 Crear un escenario donde el jugador pueda desplazarse e interactuar con el entorno.
 
-- [ ] Crear mapas.
-- [ ] Implementar obstáculos.
-- [ ] Añadir colisiones.
+- [x] Crear mapas.
+- [x] Implementar obstáculos.
+- [x] Añadir colisiones.
 - [ ] Crear diferentes zonas.
 - [ ] Implementar transiciones entre mapas.
-- [ ] Crear una cámara básica.
+- [x] Crear una cámara básica.
 
 ### Fase 3: Personajes
 
@@ -376,7 +378,7 @@ Estas características se implementarán progresivamente, según las necesidades
 
 ## 🚧 Estado actual
 
-**Etapa:** Fase 1 completada (base del juego), migrada a Godot con C#.
+**Etapa:** Fase 2 en curso (mundo): mapa de prueba, colisiones y cámara listos.
 
 **Versión del documento de visión:** 1.2
 
@@ -384,7 +386,7 @@ Actualmente se cuenta con una visión definida del proyecto, sus objetivos, tecn
 
 El proyecto se migró de Pygame a **Godot con C#** (la versión en Pygame queda en el historial de Git) para contar con editor de mapas, animaciones, física e interfaz. La Fase 1 ya cuenta con una ventana a 60 FPS y un personaje provisional que se mueve con WASD o flechas dentro de los límites de pantalla.
 
-El siguiente paso será comenzar la Fase 2: Mundo.
+La Fase 2 ya cuenta con un mapa de prueba (boceto de la instalación del gremio), paredes con colisión y una cámara que sigue al jugador. Faltan las zonas y las transiciones entre mapas.
 
 ---
 
