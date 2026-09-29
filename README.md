@@ -68,7 +68,8 @@ Project L/
 │   ├── juego.tscn        # Mapa de prueba (boceto de la sede por dentro)
 │   └── jugador.tscn      # Jugador provisional
 ├── recursos/
-│   ├── escenarios/       # Imágenes grandes de edificios (la sede del gremio)
+│   ├── escenarios/       # Edificios en 3/4: la sede del gremio y las manzanas de Vértice
+│   ├── objetos/          # Combis, mototaxis, carritos y palmeras
 │   ├── personajes/       # Sprites de Leo y del gremio (pixel art original)
 │   └── tiles/            # Tiles de la ciudad y de prueba
 ├── scripts/

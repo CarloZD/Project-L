@@ -15,7 +15,7 @@
 |---|---|---|
 | Estructura | ✅ Definido | Existen **varios planetas** y **distintas dimensiones**. |
 | Realidades alternativas | 🟡 Parcial | A futuro habrá **realidades distintas** tipo *what if*: versiones alternativas de los hechos y personajes. |
-| Estilo del mundo | ✅ Definido | Estilo **ciberpunk**. |
+| Estilo del mundo | ✅ Definido | Estilo **ciberpunk**. Vértice, la ciudad del Capítulo 1, está inspirada en las **calles de Lima**. |
 | Nombre del mundo o universo | ❓ Abierto | |
 | Convivencia entre tecnología y poderes | ❓ Abierto | |
 
