@@ -4,7 +4,7 @@
 [ext_resource type="Texture2D" path="res://recursos/personajes/leo.png" id="2_leo"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_pies"]
-size = Vector2(16, 10)
+size = Vector2(14, 8)
 
 [node name="Jugador" type="CharacterBody2D"]
 motion_mode = 1
@@ -16,7 +16,7 @@ hframes = 3
 vframes = 4
 
 [node name="Colision" type="CollisionShape2D" parent="."]
-position = Vector2(0, 9)
+position = Vector2(0, 11)
 shape = SubResource("RectangleShape2D_pies")
 
 [node name="Camara" type="Camera2D" parent="."]

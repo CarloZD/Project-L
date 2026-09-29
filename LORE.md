@@ -234,6 +234,7 @@ Estos números son **solo una referencia narrativa** para comparar el poder entr
 | Custodios | ✅ Definido | La Espada del Caos estaba bajo custodia de los **Guardianes**, facción enemiga del gremio. Su líder pierde el control al tomarla. |
 | Causa de la posesión | ✅ Definido | **No hay un tercero.** La espada posee a quien no tiene equilibrio. En el Capítulo 1, detrás de los hechos están el plan de **Rojo** y su alianza con el **líder de los Guardianes** (ver `CAPITULO_1.md`). |
 | Espada de la Luz | ✅ Definido | **Solo responde a Leo**, que la "liberó". Al principio se cree que causó la resurrección de Leo. **Leo la destruye por accidente en el Capítulo 2.** Mucho después, sus **fragmentos despiertan a un enemigo antiguo** y se unen a su arma. |
+| El enemigo antiguo | 🟡 Parcial | **Duerme bajo la fuente de la plaza del gremio**, en Vértice. Es quien absorbe los restos de la Espada de la Luz. Nombre y naturaleza por definir. |
 | ¿Qué espada contiene el artefacto? | ❓ Abierto | ¿Una, ambas, o las dos juntas forman uno solo? |
 | ¿Solo el Caos es esencia negativa? | ❓ Abierto | Idea a evaluar: si la regla es el **equilibrio**, un exceso de Luz también podría tener consecuencias. |
 | Origen y creador de las armas | ❓ Abierto | |

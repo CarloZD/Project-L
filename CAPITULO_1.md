@@ -13,7 +13,8 @@
 | Lugar | Estado | Descripción |
 |---|---|---|
 | **Vértice** | ✅ Definido | La megápolis ciberpunk donde vive el gremio. Tras la caída pierde su protección y deja de ser una megápolis (Capítulo 2). |
-| **La sede del gremio** | 🟡 Parcial | Donde ocurre la excursión y la prueba. En su **cima** se libra la batalla final del capítulo. Nombre del gremio por definir. |
+| **La sede del gremio** | 🟡 Parcial | Edificio **grande**, con un bloque central y dos alas. Donde ocurre la excursión y la prueba. En su **cima** se libra la batalla final del capítulo. Nombre del gremio por definir. |
+| **La plaza y la fuente** | ✅ Definido | Frente a la sede hay una gran plaza con una **fuente** en el centro. |
 
 ---
 
@@ -122,6 +123,7 @@ Leo despierta entre las ruinas. **Rojo lo encara** y le echa en cara todo lo que
 | El plan se rompe | ✅ Definido | Su aliado, el líder de los Guardianes, **muere**. Rojo se queda con la espada y piensa cómo volver a su plan original. |
 | El papel de Leo | ✅ Definido | Leo **desvió el plan de Rojo, pero no lo detuvo**: **llamado por la propia espada** y bajo su influencia, provocó la caída. |
 | La resurrección | ✅ Definido | No fue la Espada de la Luz: fueron **Ryno y Falco**. |
+| Lo que hay bajo la fuente | ✅ Definido | Bajo la fuente de la plaza **duerme el enemigo antiguo** que, mucho más adelante, absorberá los restos de la Espada de la Luz. En el juego, la fuente tiene un **brillo dorado tenue** bajo el agua como pista. |
 | La Espada del Caos tras el destierro | ✅ Definido | Tras poseer a Leo, la espada **queda unida a él**. Rojo intenta retenerla, pero la espada lo rechaza y termina volviendo a Leo. |
 | Surger no murió | ✅ Definido | Justo antes de morir, su cuerpo es **transportado a otro planeta**, a miles de kilómetros, donde sobrevive en una **civilización tecnológicamente atrasada**, sin forma de volver. Todos lo creen muerto. Regresa mucho más adelante. **Ni Surger sabe cómo ocurrió**; parece ser un **mecanismo de defensa propio de Surger**, no de su armadura (si fuera de las armaduras, se habría activado en otros). |
 | El regreso de Stronger | ✅ Definido | Leo lo **revive en el Capítulo 6**. |
