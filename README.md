@@ -120,13 +120,14 @@ Incorporar entidades dentro del mundo.
 
 ### Fase 4: Sistema de combate
 
-Implementar un sistema de combate en tiempo real.
+Implementar un sistema de combate **por turnos con menús**, inspirado en *EarthBound (Mother)*.
 
-- [ ] Implementar ataques básicos.
+- [ ] Enemigos visibles en el mapa: al tocarlos comienza el combate (con ventaja si se les toca por la espalda).
+- [ ] Pantalla de combate con menú de acciones: atacar, habilidad, objeto y huir.
 - [ ] Crear el sistema de vida y daño.
-- [ ] Permitir derrotar enemigos.
-- [ ] Implementar tiempo de invulnerabilidad.
-- [ ] Añadir animaciones básicas.
+- [ ] Contador de vida que desciende de forma gradual, como un odómetro.
+- [ ] Orden de turnos según la velocidad de cada combatiente.
+- [ ] Permitir derrotar enemigos y obtener recompensas.
 
 ### Fase 5: Inventario y equipamiento
 
@@ -325,7 +326,9 @@ Project Hero "L" será un RPG en 2D centrado en:
 - Interacción con personajes.
 - Desarrollo de una historia original.
 
-El sistema de combate será en tiempo real.
+El sistema de combate será **por turnos**, con menús, inspirado en *EarthBound (Mother)*: los enemigos se ven en el mapa y el combate empieza al tocarlos.
+
+En futuras versiones, las mecánicas del lore se integrarán al combate por turnos: transformarse en una fase costará un turno, cada fase modificará las estadísticas y una barra de energía se irá gastando mientras la transformación esté activa.
 
 El protagonista comenzará representado mediante una figura simple y posteriormente será reemplazado por Leo, incluyendo sus diferentes diseños y armaduras.
 

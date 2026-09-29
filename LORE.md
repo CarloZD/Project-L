@@ -45,7 +45,7 @@ Los héroes pertenecen a un **gremio** organizado con una **jerarquía similar a
 | Tema | Estado | Detalle |
 |---|---|---|
 | Organización | ✅ Definido | Gremio de héroes con rangos de estilo militar. |
-| Miembros conocidos | 🟡 Parcial | **Surger** (Azul), **Stronger** (Blanco), **Drax** (color por definir). |
+| Miembros conocidos | 🟡 Parcial | **Surger** (Azul), **Stronger** (Blanco), **Drax** (Amarillo, sin elemento propio). |
 | Colores y elementos | ✅ Definido | El color de la armadura **no define** el elemento que controla un héroe. |
 | Líder | 🟡 Parcial | Actualmente llamado **Rojo**. El nombre está en revisión. |
 | Nombre del gremio | ❓ Abierto | |
@@ -70,6 +70,18 @@ El color **no siempre indica rango**: **Cleo**, amigo de Leo, es **rojo granate*
 | Destrucción del gremio | ✅ Definido | Tras la posesión de Leo por la Espada del Caos, **mueren casi todos** y la jerarquía desaparece. Rojo sobrevive. |
 | Reconstrucción | ✅ Definido | Leo **reconstruye un pequeño gremio** más adelante, que se pierde en el Capítulo 5. |
 | Nuevo nivel | ✅ Definido | La escala de poder anterior ya no basta: solo **Leo y otros 3 o 4 héroes** están a la altura de la nueva etapa. |
+
+### Identidad visual de los personajes ✅
+
+Referencia tomada de los juguetes originales con los que nació la historia. Se usa solo como guía de **colores, proporciones y estilo**; los diseños finales del juego serán **originales**.
+
+| Personaje | Colores | Rasgos |
+|---|---|---|
+| **Leo** | **Verde lima**, detalles **rojos**, partes **negras** | Porta ambas espadas: **Espada del Caos en la mano derecha**, **Espada de la Luz en la izquierda**. |
+| **Rojo** | **Rojo** y **naranja** | Espadas largas y delgadas. |
+| **Surger** | **Azul** | Dos espadas con hojas **amarillas**, ligadas a la electricidad. |
+| **Stronger** | **Blanco** con detalles **celestes** | Brazo izquierdo cubierto por un arma con **puntas de hielo**. |
+| **Drax** | **Amarillo** con partes **grises** | Sin elemento propio. |
 
 ---
 
@@ -270,14 +282,14 @@ Estos números son **solo una referencia narrativa** para comparar el poder entr
 
 | Regla del lore | Posible mecánica |
 |---|---|
-| Fases 1, 2 y 3 con salto directo | Transformaciones intercambiables al instante, cada una con sus estadísticas. |
-| Desgaste distinto por fase | Barra de **energía**: la Fase 3 y el Ultra la vacían rápido; al agotarse, Leo queda vulnerable unos segundos. |
+| Fases 1, 2 y 3 con salto directo | Transformarse cuesta un turno; cada fase cambia las estadísticas y se puede saltar a cualquiera. |
+| Desgaste distinto por fase | Barra de **energía** que baja cada turno transformado: la Fase 3 y el Ultra la vacían rápido; al agotarse, Leo pierde la transformación y un turno. |
 | Fase 4 con un único usuario | Contenido secreto o de final del juego. |
-| Modo Ultra de ~5 minutos ampliable | Estado temporal cuya duración crece con la progresión. |
+| Modo Ultra de ~5 minutos ampliable | Estado que dura un número de turnos que crece con la progresión. |
 | Poder sin armadura tras la revelación | Habilidades que dejan de depender de la armadura. |
 | Arco que se divide en dos espadas | Arma con dos modos: distancia y cuerpo a cuerpo. |
 | Episodios tras la fusión | Momentos en que el control del jugador se altera. |
-| Regeneración bestia | Curación rápida que cuesta energía y debilita la transformación; si se usa cansado, deja penalizaciones. |
+| Regeneración bestia | Acción de combate que cura, pero gasta energía y debilita la transformación; si se usa cansado, deja penalizaciones. |
 | 3 transformaciones por día | Contador con recarga diaria; pasarlo hace perder el control. |
 | Lunas carmesí | Evento del mundo que vuelve a las bestias más agresivas. |
 | Campo de la zona bestia | Zona que fuerza la Fase Bestia al entrar. |
