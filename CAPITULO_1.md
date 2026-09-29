@@ -4,7 +4,7 @@
 > Estados: **✅ Definido**, **🟡 Propuesta** (aceptada en general, falta detalle), **❓ Abierto**.
 > Reglas del mundo: ver `LORE.md`.
 
-**Versión:** 0.9
+**Versión:** 1.0
 
 ---
 
@@ -21,13 +21,13 @@
 
 | Personaje | Estado | Descripción |
 |---|---|---|
-| **Leo** | ✅ Definido | Protagonista. Curioso y con ganas de superarse. **Creció junto a Cleo.** Entra al gremio por accidente, en el rango más bajo. Su **arrogancia no es propia**: es un **efecto de la espada**. |
-| **Cleo** | ✅ Definido | **Amigo de Leo desde antes** de que entrara al gremio; crecieron juntos y es **3 años mayor**. Ya era **miembro del gremio**, con color **rojo granate** (un rojo más oscuro que el de Rojo; en su caso el color **no indica rango**). Es un **agente que actúa en el exterior**, por eso **no está presente** durante la caída. Tras el destierro, **Leo va a buscarlo** para pedirle apoyo. |
+| **Leo** | ✅ Definido | Protagonista. Curioso y con ganas de superarse. **Creció junto a Cleo.** Entra al gremio por accidente, en el rango más bajo. Su **arrogancia no es propia**: es un **efecto de la Espada del Caos**, que lo va llamando y creciendo en él hasta que intenta dominar ambas espadas. |
+| **Cleo** | ✅ Definido | **Amigo de Leo desde antes** de que entrara al gremio; crecieron juntos y es **3 años mayor**. Ya era **miembro del gremio**, con color **rojo granate** (un rojo más oscuro que el de Rojo; en su caso el color **no indica rango**). Es un **agente que actúa en el exterior**: en el capítulo **solo aparece al principio**, cuando ve cómo Leo es nombrado por error, y **no está presente** durante la caída. Tras el destierro, **Leo va a buscarlo** para pedirle apoyo. |
 | **Rojo** (nombre pendiente) | 🟡 Parcial | Líder del gremio. Acepta a Leo a regañadientes y fabrica la historia del elegido. Detiene a Leo poseído **cortándole el brazo** y luego lo destierra. |
 | **Surger** (Azul) | ✅ Definido | Subordinado directo de Rojo. **Siempre le guarda rencor a Leo**: dice que no merecía ese lugar porque **llegó sin ningún entrenamiento previo**. Usa **dos espadas largas** y **controla la electricidad**. Es de los **primeros en caer a manos de Leo** poseído. |
 | **Stronger** (Blanco) | ✅ Definido | Subordinado directo de Rojo. **Amable con Leo**, lo ve como un gran amigo y lo **ayuda en su camino**. **Controla el hielo**. Su **brazo izquierdo** está cubierto por completo por un arma con una **sierra** y **puntas de hielo**. **Muere por la espalda** a manos de Leo poseído, sin sentir el peligro. |
-| **El candidato desplazado** | 🟡 Parcial | Aspirante que llevaba años entrenando para la prueba que Leo ocupó. **Tiene apariciones a lo largo del capítulo** y es **uno de los que pelean contra Leo poseído y mueren**. Nombre por definir. |
-| **Líder de los Guardianes** | 🟡 Parcial | Villano del capítulo. Líder de los **Guardianes**, facción que custodiaba la **Espada del Caos**. **Antes era bueno.** Tras una guerra con el gremio, pacta en secreto una tregua con Rojo. Al tomar la espada **pierde el control**. **Muere** en el capítulo. Nombre y trasfondo por definir. |
+| **El candidato desplazado** | 🟡 Parcial | Aspirante que llevaba años entrenando para la prueba que Leo ocupó. Aun así, se vuelve **amigo de Leo**: es un **personaje secundario** (NPC) que **puede ayudarlo** durante el capítulo. Es **uno de los que pelean contra Leo poseído y mueren**. Nombre por definir. |
+| **Líder de los Guardianes** | 🟡 Parcial | Villano del capítulo. Líder de los **Guardianes**, facción que custodiaba la **Espada del Caos**. **Antes era bueno**, pero la guerra lleva años y, **cuando Leo entra al gremio, ya es un líder despiadado**. Pacta en secreto una tregua con Rojo. Al tomar la espada **pierde el control**. **Muere** en el capítulo. Nombre por definir. |
 
 ---
 
@@ -130,15 +130,16 @@ Leo despierta entre las ruinas. **Rojo lo encara** y le echa en cara todo lo que
 | Por qué no se detiene | ✅ Definido | No quería las muertes, pero se convence de que ahora su plan **tiene que** funcionar para que no hayan sido en vano. |
 | Por qué busca la Forma 4 | ✅ Definido | Tras el incidente Leo lo supera en poder. El miedo a Leo lo lleva a intentar el salto de bestia a Forma 4; le sale imperfecto y lo intenta de nuevo, hasta llegar mutado al Capítulo 5. |
 | El patrón de Rojo | ✅ Definido | **Usa aliados y los descarta**: primero al líder de los Guardianes, después a Leo Sombrío en el Capítulo 5. |
-| Por qué cambió el líder de los Guardianes | ❓ Abierto | ¿Qué lleva a un líder bueno a pactar con Rojo? |
+| Por qué cambió el líder de los Guardianes | ✅ Definido | Años de guerra lo endurecieron hasta volverlo despiadado. |
 
 ---
 
 ## Preguntas abiertas
 
-1. ¿La arrogancia de Leo es efecto de la **Espada de la Luz**, de la **Espada del Caos** o de ambas?
-2. ¿Cómo se llama el gremio?
-3. ¿Cómo se llama el líder de los Guardianes y cómo era antes de la guerra?
-4. ¿Cómo se llama el candidato desplazado, y qué relación tiene con Leo durante los 2 años?
-5. ¿En qué momento y lugar exactos despierta la Espada de la Luz en la mano de Leo?
-6. ¿Aparece Cleo durante los actos I a III?
+Solo quedan **nombres** y un detalle de escena; ninguno bloquea el desarrollo:
+
+1. Nombre del **gremio**.
+2. Nombre del **líder de los Guardianes**.
+3. Nombre del **candidato desplazado**.
+4. Nombre real de **Rojo**.
+5. Momento y lugar exactos en que despierta la **Espada de la Luz**.
