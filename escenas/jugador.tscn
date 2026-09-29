@@ -1,25 +1,25 @@
-[gd_scene load_steps=3 format=3]
+[gd_scene load_steps=4 format=3]
 
 [ext_resource type="Script" path="res://scripts/Jugador.cs" id="1_jugador"]
+[ext_resource type="Texture2D" path="res://recursos/personajes/leo.png" id="2_leo"]
 
-[sub_resource type="RectangleShape2D" id="RectangleShape2D_cuerpo"]
-size = Vector2(28, 28)
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_pies"]
+size = Vector2(16, 10)
 
 [node name="Jugador" type="CharacterBody2D"]
 motion_mode = 1
 script = ExtResource("1_jugador")
 
-[node name="Colision" type="CollisionShape2D" parent="."]
-shape = SubResource("RectangleShape2D_cuerpo")
+[node name="Sprite" type="Sprite2D" parent="."]
+texture = ExtResource("2_leo")
+hframes = 3
+vframes = 4
 
-[node name="Cuerpo" type="ColorRect" parent="."]
-offset_left = -14.0
-offset_top = -14.0
-offset_right = 14.0
-offset_bottom = 14.0
-mouse_filter = 2
-color = Color(0.235, 0.784, 0.353, 1)
+[node name="Colision" type="CollisionShape2D" parent="."]
+position = Vector2(0, 9)
+shape = SubResource("RectangleShape2D_pies")
 
 [node name="Camara" type="Camera2D" parent="."]
+zoom = Vector2(2, 2)
 position_smoothing_enabled = true
 position_smoothing_speed = 8.0

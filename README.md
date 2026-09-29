@@ -64,10 +64,12 @@ Project L/
 ├── ProjectHeroL.csproj   # Proyecto C#
 ├── ProjectHeroL.sln
 ├── escenas/
-│   ├── juego.tscn        # Escena principal
+│   ├── vertice.tscn      # Escena principal: la ciudad de Vértice
+│   ├── juego.tscn        # Mapa de prueba (boceto de la sede por dentro)
 │   └── jugador.tscn      # Jugador provisional
 ├── recursos/
-│   └── tiles/            # Tiles de prueba y TileSet
+│   ├── personajes/       # Sprites de Leo y del gremio (pixel art original)
+│   └── tiles/            # Tiles de la ciudad y de prueba
 ├── scripts/
 │   ├── Juego.cs          # Control del juego (FPS, salir con Esc)
 │   ├── Jugador.cs        # Movimiento, colisiones y cámara
