@@ -13,7 +13,7 @@
 | Lugar | Estado | Descripción |
 |---|---|---|
 | **Vértice** | ✅ Definido | La megápolis ciberpunk donde vive el gremio. Tras la caída pierde su protección y deja de ser una megápolis (Capítulo 2). |
-| **La sede del gremio** | 🟡 Parcial | Edificio **grande**, con un bloque central y dos alas. Donde ocurre la excursión y la prueba. En su **cima** se libra la batalla final del capítulo. Nombre del gremio por definir. |
+| **La sede del gremio** | 🟡 Parcial | **Rascacielos blanco** que domina Vértice: una torre central escalonada con el emblema rojo del gremio, dos agujas a los lados unidas por puentes de cristal y una base con **columnata de pilares blancos**. Donde ocurre la excursión y la prueba. En su **cima** se libra la batalla final del capítulo. Nombre del gremio por definir. |
 | **La plaza y la fuente** | ✅ Definido | Frente a la sede hay una gran plaza con una **fuente** en el centro. |
 
 ---
