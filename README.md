@@ -237,7 +237,7 @@ Inicialmente es presentado como un héroe elegido que obtiene una armadura y una
 
 Sin embargo, su historia no se limita a convertirse en el héroe más poderoso.
 
-Uno de sus principales conflictos está relacionado con su arrogancia y su deseo de superar sus propios límites.
+Uno de sus principales conflictos está relacionado con su deseo de superar sus propios límites y con la arrogancia que despierta en él la influencia de la espada.
 
 Sus decisiones tienen consecuencias que afectan tanto su vida como la de las personas que lo rodean.
 
@@ -279,9 +279,9 @@ Sin embargo, el villano no era más que un instrumento de una fuerza vinculada a
 
 Después de la victoria, Leo intenta dominar ambas espadas, convencido de que puede controlar sus poderes.
 
-La Espada del Caos termina dominándolo.
+La Espada del Caos termina dominándolo, y Leo ataca a sus propios aliados creyendo que son enemigos. Rojo lo detiene cortándole el brazo derecho.
 
-Cuando recupera la conciencia, descubre que el escenario ha quedado destruido y que ha perdido su brazo derecho.
+Cuando recupera la conciencia, descubre que el escenario ha quedado destruido.
 
 Rojo, su líder, le explica que perdió el control mientras estaba bajo la influencia de la espada, provocando la muerte de varios de sus aliados y la destrucción del lugar.
 

@@ -25,7 +25,7 @@
 
 | Capítulo | Estado | Acontecimientos |
 |---|---|---|
-| **Cap. 1: Comienzo y caída** | ✅ Definido | Leo obtiene su armadura, derrota al primer enemigo tras morir y resucitar, intenta dominar ambas espadas, es poseído por la Espada del Caos, mueren casi todos los miembros del gremio, pierde el brazo derecho y es desterrado. **No hay transformaciones.** |
+| **Cap. 1: Comienzo y caída** | ✅ Definido | Ocurre en la ciudad de **Vértice**. Leo obtiene su armadura, recibe la Espada de la Luz, muere y resucita en la cima de la sede del gremio, derrota al líder de los Guardianes, intenta dominar ambas espadas y es poseído por la Espada del Caos. Rojo lo detiene **cortándole el brazo derecho**. El gremio cae y Leo es desterrado. **No hay transformaciones.** Ver `CAPITULO_1.md`. |
 | **Cap. 2** | 🟡 Parcial | Primer encuentro con Leo Sombrío. **Leo destruye por accidente la Espada de la Luz.** Aún no hay transformaciones. Ver `CAPITULO_2.md`. |
 | **Cap. 3** | 🟡 Parcial | En ausencia de Leo aparece **Laval**, hombre bestia de rasgos de león y secuaz de Rojo. Al regresar Leo, Laval intenta matarlo; la batalla termina en un **volcán**, con Leo marcado por un **corte en el rostro** y Laval cayendo a la lava. Ver `CAPITULO_3.md`. |
 | **Cap. 4** | 🟡 Parcial | **Empiezan las transformaciones.** Leo Sombrío es superior a Leo. Leo desbloquea la **Fase 1**. Se repite el patrón: cada vez que Leo alcanza una fase, Leo Sombrío ya domina la siguiente, hasta llegar a la **Fase 3**. |
@@ -258,7 +258,7 @@ Estos números son **solo una referencia narrativa** para comparar el poder entr
 
 | Tema | Estado | Detalle |
 |---|---|---|
-| Origen | ✅ Definido | En el brazo derecho que Leo perdió quedó **un resto de la esencia de la Espada del Caos**. Esa esencia **creó un cuerpo propio** con la misma apariencia que Leo. Usa armadura negra. |
+| Origen | ✅ Definido | En el brazo derecho que **Rojo le cortó** a Leo quedó **un resto de la esencia de la Espada del Caos**. Esa esencia **creó un cuerpo propio** con la misma apariencia que Leo. Usa armadura negra. |
 | Conciencia | ✅ Definido | Tiene **conciencia propia**. |
 | Evolución | ✅ Definido | Siempre va **una fase por delante** de Leo durante el Capítulo 4. |
 | Final como personaje separado | ✅ Definido | Traicionado por Rojo, se **fusiona con Leo** en el Capítulo 5. Leo recupera su brazo. |
