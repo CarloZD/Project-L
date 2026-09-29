@@ -12,7 +12,7 @@
 
 | Lugar | Estado | Descripción |
 |---|---|---|
-| **Vértice** | ✅ Definido | La megápolis ciberpunk donde vive el gremio. Su estilo está inspirado en las **calles de Lima**: casonas pastel con **balcones de cajón**, casas de ladrillo con fierros y tanques en el techo, carteles de neón (chifas, pollerías, cabinas), **combis** y mototaxis, cables enredados entre postes, palmeras y un **malecón frente al mar**. Tras la caída pierde su protección y deja de ser una megápolis (Capítulo 2). |
+| **Vértice** | ✅ Definido | La megápolis ciberpunk donde vive el gremio. Tras la caída pierde su protección y deja de ser una megápolis (Capítulo 2). |
 | **La sede del gremio** | 🟡 Parcial | **Rascacielos blanco** que domina Vértice: una torre central escalonada con el emblema rojo del gremio, dos agujas a los lados unidas por puentes de cristal y una base con **columnata de pilares blancos**. Donde ocurre la excursión y la prueba. En su **cima** se libra la batalla final del capítulo. Nombre del gremio por definir. |
 | **La plaza y la fuente** | ✅ Definido | Frente a la sede hay una gran plaza con una **fuente** en el centro. |
 
