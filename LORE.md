@@ -135,7 +135,7 @@ Un héroe que entrena lo suficiente puede usar su poder **sin armadura**, e incl
 
 | Forma | Descripción | Individuos conocidos |
 |---|---|---|
-| **Forma 1** | Personas de tamaño promedio, sin grandes capacidades. | La mayoría. |
+| **Forma 1** | Personas de tamaño promedio, sin grandes capacidades. Los **civiles** son gente común que **no tiene la capacidad de evolucionar**. Visualmente son personas normales, sin armadura (referencia: la gente de la Ciudadela en *Twilight Princess*). | La mayoría, incluidos los civiles. |
 | **Forma 2** | Mayor altura y fuerza. | ❓ |
 | **Forma 3** | Igual que la Forma 2 en físico, pero **no pueden transformarse** (no usan fases). Su **armadura les da casi todo su poder**, que ya está **completamente desbloqueado**. Ellos mismos lo llaman **"estado definitivo"**. **Excepción a la regla principal:** a este nivel, cuerpo y armadura están tan unidos que ya no se distinguen. El poder sigue siendo de ellos, pero lo canalizan por completo a través de la armadura; sin ella seguirían siendo fuertes, pero no podrían sacar ese poder. Solo se conocen **tres individuos**, todos del futuro. | Ryno, Falco y el tercero del futuro. |
 | **Forma 4** | Se alcanza desde el estado bestia. El intento de salto solo ocurre **una vez**. | **Rojo**, en una versión **imperfecta** (su salto salió a medias), sin todo su potencial. |

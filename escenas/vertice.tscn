@@ -1,4 +1,4 @@
-[gd_scene load_steps=42 format=3]
+[gd_scene load_steps=55 format=3]
 
 [ext_resource type="Script" path="res://scripts/Juego.cs" id="1_juego"]
 [ext_resource type="PackedScene" path="res://escenas/jugador.tscn" id="2_jugador"]
@@ -24,7 +24,20 @@
 [ext_resource type="Texture2D" path="res://recursos/personajes/stronger.png" id="22_stronger"]
 [ext_resource type="Texture2D" path="res://recursos/personajes/drax.png" id="23_drax"]
 [ext_resource type="Texture2D" path="res://recursos/personajes/cleo.png" id="24_cleo"]
-[ext_resource type="Texture2D" path="res://recursos/escenarios/suelo_vertice.png" id="25_suelo"]
+[ext_resource type="PackedScene" path="res://escenas/civil.tscn" id="30_civil"]
+[ext_resource type="Texture2D" path="res://recursos/personajes/civiles/civil_00.png" id="26_civil_00"]
+[ext_resource type="Texture2D" path="res://recursos/personajes/civiles/civil_01.png" id="27_civil_01"]
+[ext_resource type="Texture2D" path="res://recursos/personajes/civiles/civil_02.png" id="28_civil_02"]
+[ext_resource type="Texture2D" path="res://recursos/personajes/civiles/civil_03.png" id="29_civil_03"]
+[ext_resource type="Texture2D" path="res://recursos/personajes/civiles/civil_04.png" id="30_civil_04"]
+[ext_resource type="Texture2D" path="res://recursos/personajes/civiles/civil_05.png" id="31_civil_05"]
+[ext_resource type="Texture2D" path="res://recursos/personajes/civiles/civil_06.png" id="32_civil_06"]
+[ext_resource type="Texture2D" path="res://recursos/personajes/civiles/civil_07.png" id="33_civil_07"]
+[ext_resource type="Texture2D" path="res://recursos/personajes/civiles/civil_08.png" id="34_civil_08"]
+[ext_resource type="Texture2D" path="res://recursos/personajes/civiles/civil_09.png" id="35_civil_09"]
+[ext_resource type="Texture2D" path="res://recursos/personajes/civiles/civil_10.png" id="36_civil_10"]
+[ext_resource type="Texture2D" path="res://recursos/personajes/civiles/civil_11.png" id="37_civil_11"]
+[ext_resource type="Texture2D" path="res://recursos/escenarios/suelo_vertice.png" id="38_suelo"]
 
 [ext_resource type="Script" path="res://scripts/Puerta.cs" id="20_puerta"]
 
@@ -88,7 +101,7 @@ tile_map_data = PackedByteArray(0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 0, 0, 0, 0, 1, 0, 
 tile_set = ExtResource("3_tileset")
 
 [node name="Suelo" type="Sprite2D" parent="."]
-texture = ExtResource("25_suelo")
+texture = ExtResource("38_suelo")
 centered = false
 
 [node name="MuroPlaza" type="StaticBody2D" parent="."]
@@ -823,6 +836,54 @@ vframes = 4
 [node name="Colision" type="CollisionShape2D" parent="Ciudad/Cleo"]
 position = Vector2(0, 11)
 shape = SubResource("RectangleShape2D_14x8")
+
+[node name="Civil00" parent="Ciudad" instance=ExtResource("30_civil")]
+position = Vector2(720, 992)
+Apariencia = ExtResource("26_civil_00")
+
+[node name="Civil01" parent="Ciudad" instance=ExtResource("30_civil")]
+position = Vector2(1520, 992)
+Apariencia = ExtResource("27_civil_01")
+
+[node name="Civil02" parent="Ciudad" instance=ExtResource("30_civil")]
+position = Vector2(832, 1152)
+Apariencia = ExtResource("28_civil_02")
+
+[node name="Civil03" parent="Ciudad" instance=ExtResource("30_civil")]
+position = Vector2(1408, 1136)
+Apariencia = ExtResource("29_civil_03")
+
+[node name="Civil04" parent="Ciudad" instance=ExtResource("30_civil")]
+position = Vector2(1232, 912)
+Apariencia = ExtResource("30_civil_04")
+
+[node name="Civil05" parent="Ciudad" instance=ExtResource("30_civil")]
+position = Vector2(320, 1392)
+Apariencia = ExtResource("31_civil_05")
+
+[node name="Civil06" parent="Ciudad" instance=ExtResource("30_civil")]
+position = Vector2(832, 1392)
+Apariencia = ExtResource("32_civil_06")
+
+[node name="Civil07" parent="Ciudad" instance=ExtResource("30_civil")]
+position = Vector2(1600, 1392)
+Apariencia = ExtResource("33_civil_07")
+
+[node name="Civil08" parent="Ciudad" instance=ExtResource("30_civil")]
+position = Vector2(1056, 1600)
+Apariencia = ExtResource("34_civil_08")
+
+[node name="Civil09" parent="Ciudad" instance=ExtResource("30_civil")]
+position = Vector2(1184, 1760)
+Apariencia = ExtResource("35_civil_09")
+
+[node name="Civil10" parent="Ciudad" instance=ExtResource("30_civil")]
+position = Vector2(176, 960)
+Apariencia = ExtResource("36_civil_10")
+
+[node name="Civil11" parent="Ciudad" instance=ExtResource("30_civil")]
+position = Vector2(192, 1824)
+Apariencia = ExtResource("37_civil_11")
 
 [node name="Jugador" parent="." instance=ExtResource("2_jugador")]
 position = Vector2(1136, 1872)

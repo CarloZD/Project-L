@@ -70,11 +70,13 @@ Project L/
 │   └── jugador.tscn      # Jugador provisional
 ├── recursos/
 │   ├── escenarios/       # Imágenes grandes de edificios (la sede del gremio)
-│   ├── personajes/       # Sprites de Leo y del gremio (pixel art original)
+│   ├── personajes/       # Sprites de Leo, del gremio y de los civiles (pixel art original)
 │   └── tiles/            # Tiles de la ciudad y de prueba
 ├── scripts/
 │   ├── Juego.cs          # Control del juego (FPS, salir con Esc)
-│   ├── Jugador.cs        # Movimiento, animación, colisiones y cámara
+│   ├── Personaje.cs      # Base de todo personaje que camina (animación)
+│   ├── Jugador.cs        # Movimiento de Leo, colisiones y cámara
+│   ├── Civil.cs          # Civiles que pasean por la ciudad
 │   ├── Puerta.cs         # Zona que lleva a otra escena
 │   ├── Transicion.cs     # Cambio de escena con fundido
 │   └── Controles.cs      # Registro de WASD y flechas

@@ -1,0 +1,20 @@
+[gd_scene load_steps=4 format=3]
+
+[ext_resource type="Script" path="res://scripts/Civil.cs" id="1_civil"]
+[ext_resource type="Texture2D" path="res://recursos/personajes/civiles/civil_00.png" id="2_apariencia"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_pies"]
+size = Vector2(14, 8)
+
+[node name="Civil" type="CharacterBody2D"]
+motion_mode = 1
+script = ExtResource("1_civil")
+
+[node name="Sprite" type="Sprite2D" parent="."]
+texture = ExtResource("2_apariencia")
+hframes = 3
+vframes = 4
+
+[node name="Colision" type="CollisionShape2D" parent="."]
+position = Vector2(0, 11)
+shape = SubResource("RectangleShape2D_pies")
