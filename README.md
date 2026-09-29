@@ -65,7 +65,8 @@ Project L/
 ├── ProjectHeroL.sln
 ├── escenas/
 │   ├── vertice.tscn      # Escena principal: la ciudad de Vértice
-│   ├── juego.tscn        # Mapa de prueba (boceto de la sede por dentro)
+│   ├── sede_interior.tscn  # Interior de la sede del gremio
+│   ├── transicion.tscn   # Fundido a negro entre escenas (autoload)
 │   └── jugador.tscn      # Jugador provisional
 ├── recursos/
 │   ├── escenarios/       # Imágenes grandes de edificios (la sede del gremio)
@@ -73,7 +74,9 @@ Project L/
 │   └── tiles/            # Tiles de la ciudad y de prueba
 ├── scripts/
 │   ├── Juego.cs          # Control del juego (FPS, salir con Esc)
-│   ├── Jugador.cs        # Movimiento, colisiones y cámara
+│   ├── Jugador.cs        # Movimiento, animación, colisiones y cámara
+│   ├── Puerta.cs         # Zona que lleva a otra escena
+│   ├── Transicion.cs     # Cambio de escena con fundido
 │   └── Controles.cs      # Registro de WASD y flechas
 ├── LORE.md               # Reglas del mundo
 ├── CAPITULO_1.md         # Guion del Capítulo 1
@@ -107,8 +110,8 @@ Crear un escenario donde el jugador pueda desplazarse e interactuar con el entor
 - [x] Crear mapas.
 - [x] Implementar obstáculos.
 - [x] Añadir colisiones.
-- [ ] Crear diferentes zonas.
-- [ ] Implementar transiciones entre mapas.
+- [x] Crear diferentes zonas.
+- [x] Implementar transiciones entre mapas.
 - [x] Crear una cámara básica.
 
 ### Fase 3: Personajes
@@ -384,7 +387,7 @@ Estas características se implementarán progresivamente, según las necesidades
 
 ## 🚧 Estado actual
 
-**Etapa:** Fase 2 en curso (mundo): mapa de prueba, colisiones y cámara listos.
+**Etapa:** Fase 2 completada (mundo). Siguiente: Fase 3 (personajes y diálogos).
 
 **Versión del documento de visión:** 1.2
 

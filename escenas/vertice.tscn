@@ -11,11 +11,16 @@
 
 [ext_resource type="Texture2D" path="res://recursos/escenarios/sede_gremio.png" id="9_sede"]
 
+[ext_resource type="Script" path="res://scripts/Puerta.cs" id="20_puerta"]
+
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_sede"]
 size = Vector2(704, 704)
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_npc"]
 size = Vector2(14, 8)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_puerta"]
+size = Vector2(64, 12)
 
 [node name="Vertice" type="Node2D"]
 y_sort_enabled = true
@@ -102,3 +107,15 @@ shape = SubResource("RectangleShape2D_npc")
 
 [node name="Jugador" parent="." instance=ExtResource("2_jugador")]
 position = Vector2(1136, 1872)
+
+[node name="PuertaSede" type="Area2D" parent="."]
+position = Vector2(1120, 776)
+script = ExtResource("20_puerta")
+EscenaDestino = "res://escenas/sede_interior.tscn"
+PuntoDeLlegada = "Entrada"
+
+[node name="Zona" type="CollisionShape2D" parent="PuertaSede"]
+shape = SubResource("RectangleShape2D_puerta")
+
+[node name="FrenteSede" type="Marker2D" parent="."]
+position = Vector2(1120, 840)

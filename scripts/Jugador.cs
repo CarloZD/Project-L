@@ -69,6 +69,16 @@ public partial class Jugador : CharacterBody2D
     }
 
     /// <summary>
+    /// Coloca al jugador en un punto al llegar a una escena (por ejemplo, tras cruzar una puerta).
+    /// </summary>
+    public void Llegar(Vector2 posicion)
+    {
+        GlobalPosition = posicion;
+        Velocity = Vector2.Zero;
+        _camara.ResetSmoothing();   // la cámara salta al punto en vez de desplazarse
+    }
+
+    /// <summary>
     /// Impide que la cámara muestre lo que hay fuera del mapa.
     /// </summary>
     public void LimitarCamara(Rect2 limites)
