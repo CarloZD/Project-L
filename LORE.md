@@ -177,7 +177,7 @@ Qué transformaciones y niveles se abren desde cada Forma:
 | **Forma 2** | **Forma Bestia** | Nivel del cuerpo, no transformación. Es el camino de Leo y Radamantho hacia la Forma 4. |
 | **Forma Bestia** | **Forma 4** | |
 | **Ultra** | También se usa en **Forma 4** | |
-| Cómo es el salto | Como **Goku al pasar de Ozaru dorado al Super Saiyajin 4**: se entra en la **Forma Bestia** y desde ella se da el salto a la **Forma 4**. |
+| Cómo es el salto | Primero se entra en la **Forma Bestia**, sin control, y **desde ella** se da el salto a la **Forma 4**. |
 | Forma Bestia y Fase Bestia | Por eso son cosas distintas: la **Fase Bestia se usa a voluntad**; la **Forma Bestia no**, y es la **entrada a la Forma 4**. |
 | Intento único | Sigue vigente: el salto a Forma 4 **solo se intenta una vez**. **Radamantho es la excepción.** |
 | Quién llega a la Forma 3 | **Solo Zero y Falco.** Ni Leo ni nadie más la alcanza. |
