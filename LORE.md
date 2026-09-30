@@ -32,9 +32,9 @@
 | **Cap. 5** | 🟡 Parcial | Rojo regresa con su cuerpo mutado a una **Forma 4 imperfecta**. Se alía con Leo Sombrío y luego lo **traiciona**. Leo Sombrío une fuerzas con Leo y se **fusionan** (ver sección 8). El pequeño gremio que Leo había reconstruido se pierde. Leo comienza a sufrir **episodios** causados por la parte maligna de Leo Sombrío. |
 | **Cap. 6** | 🟡 Parcial | Leo **revive a Stronger** con la Espada del Caos. Al principio Stronger **ayuda a Leo** porque no recuerda bien quién lo mató. En un enfrentamiento contra Rojo, Leo y Stronger **se fusionan**, y Stronger alcanza a ver parte de esos recuerdos. **Rojo le cuenta la verdad** y Stronger se alía con **Rojo** y **Laval**, ambos deformes. |
 | **Cap. 7** | 🟡 Parcial | Aparecen los **tres individuos del futuro** (ver sección 5). |
-| **Capítulos posteriores (por definir)** | 🟡 Parcial | La gente bestia recibe **más trasfondo**. Leo intenta el salto de bestia a Forma 4, **falla** y obtiene la **Fase Bestia de gorila**. Entre estos capítulos entra el **multiverso** (realidades alternativas). |
+| **Capítulos posteriores (por definir)** | 🟡 Parcial | La gente bestia recibe **más trasfondo**. Leo manifiesta su **Fase Bestia de gorila**; al principio se cree que es su evolución a la Forma 4, pero vuelve a su forma normal. Entre estos capítulos entra el **multiverso** (realidades alternativas). |
 | **Capítulo futuro (por definir)** | 🟡 Parcial | Rojo es **dado por muerto** (está en otro planeta). Leo, ya más poderoso, viaja con **Cleo** y **Ryno**. Los fragmentos de la Espada de la Luz debilitan el sello de **Ruigerd**, que engaña a **Ryu** para que lo libere (ver secciones 4 y 7). |
-| **Capítulo final** | ❓ Abierto | Uno de los individuos del futuro sobrevive hasta aquí. |
+| **Arco final** | 🟡 Parcial | Ocurre unos **20 años** después del inicio. Tres capítulos seguidos; ver sección 11, *El arco final*. |
 
 ---
 
@@ -47,7 +47,7 @@ Los héroes pertenecen a un **gremio** organizado con una **jerarquía similar a
 | Organización | ✅ Definido | Gremio de héroes con rangos de estilo militar. |
 | Miembros conocidos | 🟡 Parcial | **Surger** (Azul), **Stronger** (Blanco), **Drax** (Amarillo, sin elemento propio). |
 | Colores y elementos | ✅ Definido | El color de la armadura **no define** el elemento. El elemento depende de **la armadura**, y no todos logran manifestarlo (ver sección 4, *Elementos*). |
-| Líder | ✅ Definido | Su nombre real es **Radamantho**, pero casi todos lo conocen como **Rojo**, por su color. |
+| Líder | ✅ Definido | Su nombre real es **Radamantho**, pero casi todos lo conocen como **Rojo**, por su color. **Líder nato**: oculta sus verdaderas intenciones, pero **siempre vela por los suyos**. **Heredó el liderazgo** del gremio (de quién, por definir). Su verdadero objetivo son **los artefactos**. |
 | Nombre del gremio | ❓ Abierto | |
 | Cómo se elige a un héroe / la prueba | ❓ Abierto | Leo obtuvo su armadura al irrumpir en la prueba destinada a otro héroe. Falta definir quién organiza la prueba y quién era ese héroe. |
 
@@ -110,7 +110,7 @@ Un héroe que entrena lo suficiente puede usar su poder **sin armadura**, e incl
 | Aprenderlo más tarde | ✅ Definido | Quien no lo controla al principio **puede llegar a hacerlo** (caso de Zero). |
 | Linaje | ✅ Definido | Los de un **mismo linaje comparten elemento**: **Zero y Stronger son parientes lejanos** y los dos son de hielo. |
 | Mismo color, sin parentesco | ✅ Definido | **Radamantho, Falco y Cleo** comparten el color rojo **sin ninguna relación de sangre**, pero **los tres pueden llegar a dominar** el elemento de la armadura roja. |
-| Elemento de la armadura roja | ❓ Abierto | |
+| Elemento de la armadura roja | ✅ Definido | **Fuego.** |
 | Dependencia de la armadura | ✅ Definido | **En el Capítulo 1 todos los héroes son Forma 1** y **dependen de su armadura**: sin ella no pueden usar su elemento. |
 
 | Personaje | Armadura | Elemento |
@@ -118,11 +118,11 @@ Un héroe que entrena lo suficiente puede usar su poder **sin armadura**, e incl
 | **Leo** | Verde lima | **Energía** |
 | **Surger** | Azul | **Electricidad** (lo controla) |
 | **Stronger** | Blanca | **Hielo** (lo controla) |
-| **Radamantho (Rojo)** | Roja | Elemento rojo (por definir). **Podría dominarlo, pero no lo controla** |
+| **Radamantho (Rojo)** | Roja | **Fuego**. **Podría dominarlo, pero no lo controla** |
 | **Drax** | Amarilla | Sin elemento propio |
 | **Zero (Ryno)** | Blanca | **Hielo**, por su linaje con Stronger. **No lo controla** al principio; más adelante se explora y **logra controlarlo** |
-| **Falco** | Roja | Elemento rojo (por definir). **Podría dominarlo, pero no lo controla** |
-| **Cleo** | Rojo granate | Elemento rojo (por definir). **Puede llegar a dominarlo** |
+| **Falco** | Roja | **Fuego**. **Podría dominarlo, pero no lo controla** |
+| **Cleo** | Rojo granate | **Fuego**. **Puede llegar a dominarlo** |
 
 ### Los dotados ✅
 
@@ -152,7 +152,7 @@ Un héroe que entrena lo suficiente puede usar su poder **sin armadura**, e incl
 | Usuarios de la Fase 4 | ✅ Definido | Su **único usuario conocido** es **Ryno (Zero)**, que la alcanza por una mutación propia. |
 | Desgaste sin transformación | ✅ Definido | Agotamiento normal, depende del **estado físico** del portador. |
 | Primera aparición | ✅ Definido | Capítulo 4. |
-| Fase Bestia de Leo | ✅ Definido | Leo la obtiene en un capítulo futuro al **fallar** el salto de bestia a Forma 4. |
+| Fase Bestia de Leo | ✅ Definido | Leo la manifiesta en un capítulo futuro. Al principio se cree que es su evolución a la Forma 4, pero **era solo la Fase Bestia**. |
 
 ### Modo Ultra 🟡
 
@@ -164,13 +164,39 @@ Un héroe que entrena lo suficiente puede usar su poder **sin armadura**, e incl
 | En qué casos ocurre la apariencia sin poder | ❓ Abierto | |
 | Consecuencias al terminar | ❓ Abierto | |
 
+### Mapa de evolución ✅
+
+Qué transformaciones y niveles se abren desde cada Forma:
+
+| Desde | Se abre | Nota |
+|---|---|---|
+| **Forma 1** | Forma 2 | |
+| **Forma 2** | **Fases 1, 2 y 3**, **Fase Bestia** y **Ultra** | La **Fase Bestia** es una transformación y es **distinta de la Forma Bestia**. |
+| **Forma 2** | Forma 3 | |
+| **Forma 3** | **Fase 4** | |
+| **Forma 2** | **Forma Bestia** | Nivel del cuerpo, no transformación. Es el camino de Leo y Radamantho hacia la Forma 4. |
+| **Forma Bestia** | **Forma 4** | |
+| **Ultra** | También se usa en **Forma 4** | |
+| Cómo es el salto | Como **Goku al pasar de Ozaru dorado al Super Saiyajin 4**: se entra en la **Forma Bestia** y desde ella se da el salto a la **Forma 4**. |
+| Forma Bestia y Fase Bestia | Por eso son cosas distintas: la **Fase Bestia se usa a voluntad**; la **Forma Bestia no**, y es la **entrada a la Forma 4**. |
+| Intento único | Sigue vigente: el salto a Forma 4 **solo se intenta una vez**. **Radamantho es la excepción.** |
+| Quién llega a la Forma 3 | **Solo Zero y Falco.** Ni Leo ni nadie más la alcanza. |
+
+### Tamaño ✅
+
+| Tema | Detalle |
+|---|---|
+| Escala entre ellos | Los civiles de Vértice son **del tamaño de Leo**. La **Forma 1** equivale a una persona de unos **1,60 m**. |
+| Crecimiento | La **Forma/Fase Bestia** y la **Forma 4** los hacen **más grandes**: como pasar de 1,80 m a 2,10 m. |
+| Frente a los humanos | Los **humanos normales** son mucho más pequeños: **Leo mide unos 5 metros** a su lado. |
+
 ### Formas (nivel físico del cuerpo) 🟡
 
 | Forma | Descripción | Individuos conocidos |
 |---|---|---|
 | **Forma 1** | Personas de tamaño promedio, sin grandes capacidades. Los **civiles** son gente común que **no tiene la capacidad de evolucionar**. Visualmente son personas normales, sin armadura (referencia: la gente de la Ciudadela en *Twilight Princess*). Los **héroes del Capítulo 1 también son Forma 1**, pero ellos sí pueden evolucionar; **dependen por completo de su armadura**. **Anatomía de referencia** (según la planeación original): cabeza pequeña, torso delgado como un armazón, brazos largos y finos, manos grandes, y piernas con pantorrillas y pies grandes y pesados. | La mayoría, incluidos los civiles y los héroes del Capítulo 1. |
 | **Forma 2** | Mayor altura y fuerza. | ❓ |
-| **Forma 3** | Igual que la Forma 2 en físico, pero **no pueden transformarse** (no usan fases). Su **armadura les da casi todo su poder**, que ya está **completamente desbloqueado**. Ellos mismos lo llaman **"estado definitivo"**. **Excepción a la regla principal:** a este nivel, cuerpo y armadura están tan unidos que ya no se distinguen. El poder sigue siendo de ellos, pero lo canalizan por completo a través de la armadura; sin ella seguirían siendo fuertes, pero no podrían sacar ese poder. Solo se conocen **tres individuos**, todos del futuro. **Pueden estar sin armadura**; en ese caso su cuerpo se ve igual al de la Forma 2. Con la armadura puesta, el cuerpo es el mismo en todos y **solo cambia la cabeza**. Zero lleva un casco con cresta alta y una **garra mecánica** en la mano izquierda, que es una **modificación propia**. | Ryno, Falco y el tercero del futuro. |
+| **Forma 3** | Igual que la Forma 2 en físico, pero **no pueden transformarse** (no usan fases). Su **armadura les da casi todo su poder**, que ya está **completamente desbloqueado**. Ellos mismos lo llaman **"estado definitivo"**. **Excepción a la regla principal:** a este nivel, cuerpo y armadura están tan unidos que ya no se distinguen. El poder sigue siendo de ellos, pero lo canalizan por completo a través de la armadura; sin ella seguirían siendo fuertes, pero no podrían sacar ese poder. Solo la alcanzan **Zero y Falco**, ambos del futuro. **Pueden estar sin armadura**; en ese caso su cuerpo se ve igual al de la Forma 2. Con la armadura puesta, el cuerpo es el mismo en todos y **solo cambia la cabeza**. Zero lleva un casco con cresta alta y una **garra mecánica** en la mano izquierda, que es una **modificación propia**. | Ryno (Zero) y Falco. |
 | **Forma 4** | Se alcanza desde el estado bestia. El intento de salto solo ocurre **una vez**. | **Rojo**, en una versión **imperfecta** (su salto salió a medias), sin todo su potencial. |
 
 ### Escala de poder (referencia narrativa) 🟡
@@ -197,9 +223,9 @@ Estos números son **solo una referencia narrativa** para comparar el poder entr
 
 | Tema | Estado | Detalle |
 |---|---|---|
-| Quiénes son | ✅ Definido | Tres individuos del futuro, los únicos conocidos en **Forma 3**. Aparecen en el Capítulo 7. |
+| Quiénes son | ✅ Definido | Tres individuos del futuro. **Zero y Falco** son los únicos en **Forma 3**. Aparecen en el Capítulo 7. |
 | El malvado | ✅ Definido | **Uno de los tres es malvado.** |
-| Ryno | ✅ Definido | **Uno de los individuos del futuro**, en **Forma 3**. Su **nombre civil**, el de quien está bajo la armadura, es **Zero**: un nombre que **él mismo se puso**. Junto con Falco, revive a Leo. Más adelante acompaña a Leo junto a Cleo. Gracias a una **mutación propia** despierta la **Fase 4**, aunque la Forma 3 normalmente no puede transformarse. **Sobrevive hasta el capítulo final.** |
+| Ryno | ✅ Definido | **Uno de los individuos del futuro**, en **Forma 3**. Su **nombre civil**, el de quien está bajo la armadura, es **Zero**: un nombre que **él mismo se puso**. Junto con Falco, revive a Leo. Más adelante acompaña a Leo junto a Cleo. Gracias a una **mutación propia** despierta la **Fase 4**, aunque la Forma 3 normalmente no puede transformarse. **Sobrevive hasta el capítulo final**, donde **se sacrifica** para intentar acabar con Radamantho (ver sección 11). |
 | Falco | ✅ Definido | **Uno de los individuos del futuro**, en **Forma 3**. Junto con Ryno, revive a Leo. **Muere por culpa de unas visiones** (se explica en un capítulo futuro). |
 | El tercero del futuro (el malvado) | 🟡 Parcial | No aparece en el Capítulo 1. |
 | Los otros dos | ✅ Definido | Son quienes **resucitaron a Leo** en el Capítulo 1. **Uno muere**; el otro **sobrevive hasta el capítulo final** y es el único usuario conocido de la **Fase 4**. |
@@ -217,8 +243,8 @@ Estos números son **solo una referencia narrativa** para comparar el poder entr
 |---|---|---|
 | Origen | ✅ Definido | **Existen ambos casos:** hay quienes **nacen** bestias y quienes **se vuelven** bestias. |
 | Camino a la Forma 4 | ✅ Definido | El estado bestia es un paso previo a la Forma 4. El salto de bestia a Forma 4 **solo se puede intentar una vez**. |
-| Caso de Leo | ✅ Definido | Leo **falla** el salto y se queda con una **Fase Bestia de gorila**. En un capítulo futuro se muestra cómo se transforma y contra quién (por definir). |
-| Caso de Rojo | ✅ Definido | Su salto le sale **a medias** y obtiene una **Forma 4 imperfecta**. **De algún modo vuelve a intentarlo**, rompiendo la regla del intento único (cómo lo logra está por definir). |
+| Caso de Leo | ✅ Definido | La primera vez que se manifestó su **Fase Bestia de gorila** se creyó que era su evolución a la Forma 4, pero **volvió a su forma normal**: era solo la Fase Bestia, **no un intento real**. Su **verdadero salto** llega en el **capítulo final**: pierde el control de su **Forma Bestia** y alcanza la **Forma 4**. |
+| Caso de Rojo | ✅ Definido | Su salto le sale **a medias** y obtiene una **Forma 4 imperfecta**. **De algún modo vuelve a intentarlo**, rompiendo la regla del intento único. **Es la excepción a la regla**; cómo lo logra está por definir (posible respuesta: los artefactos). |
 
 ### Regeneración
 
@@ -261,14 +287,16 @@ Estos números son **solo una referencia narrativa** para comparar el poder entr
 | Tema | Estado | Detalle |
 |---|---|---|
 | Número de artefactos | ✅ Definido | Existen **7 artefactos**. En el juego se presentará como **"no se sabe cuántos hay"**. |
-| Artefactos conocidos | 🟡 Parcial | Uno dentro de la **espada**, uno en el **escudo**, uno en el **arco** y uno protegido por las **tribus bestia**. Faltan 3 por definir. |
+| Qué son | ✅ Definido | Algo así como las **gemas del infinito**: reunirlos da un poder enorme. Qué otorga cada uno, por definir. |
+| Quién los busca | ✅ Definido | **Radamantho**. Es su verdadero objetivo desde el principio, y en un capítulo futuro llega a reunir **la gran mayoría**. |
+| Artefactos conocidos | 🟡 Parcial | Uno dentro de la **Espada del Caos**, uno en el **escudo** (lo porta **Zero**), uno en el **arco** y uno protegido por las **tribus bestia**. Faltan 3 por definir. Otro termina en **otra dimensión**, robado por los humanos (ver sección 11). |
 | El arco | ✅ Definido | Puede **dividirse en dos espadas**. Aparece más adelante. |
 | Espada del Caos | ✅ Definido | Si el portador **no tiene equilibrio**, la espada **lo posee**. Con experiencia, permite **traer a la vida a otros**. |
 | Custodios | ✅ Definido | La Espada del Caos estaba bajo custodia de los **Guardianes**, facción enemiga del gremio. Su líder pierde el control al tomarla. |
 | Causa de la posesión | ✅ Definido | **No hay un tercero.** La espada posee a quien no tiene equilibrio. En el Capítulo 1, detrás de los hechos están el plan de **Rojo** y su alianza con el **líder de los Guardianes** (ver `CAPITULO_1.md`). |
 | Espada de la Luz | ✅ Definido | **Solo responde a Leo**, que la "liberó". Al principio se cree que causó la resurrección de Leo. **Leo la destruye por accidente en el Capítulo 2.** Mucho después, sus **fragmentos son absorbidos por Ruigerd** y se unen a su arma. |
 | Ruigerd, el enemigo antiguo | 🟡 Parcial | **Sellado bajo la fuente de la plaza del gremio**, en Vértice, desde hace **al menos 500 años**. Cuando la Espada de la Luz se quiebra, **absorbe sus fragmentos** y el **sello se debilita**. Con engaños consigue que **Ryu lo libere**. Naturaleza por definir. |
-| ¿Qué espada contiene el artefacto? | ❓ Abierto | ¿Una, ambas, o las dos juntas forman uno solo? |
+| ¿Qué espada contiene el artefacto? | ✅ Definido | La **Espada del Caos**. Radamantho la **destruye** en el capítulo final para quedarse con él, el último que le faltaba. |
 | ¿Solo el Caos es esencia negativa? | ❓ Abierto | Idea a evaluar: si la regla es el **equilibrio**, un exceso de Luz también podría tener consecuencias. |
 | Origen y creador de las armas | ❓ Abierto | |
 
@@ -327,3 +355,52 @@ Estos números son **solo una referencia narrativa** para comparar el poder entr
 | 3 transformaciones por día | Contador con recarga diaria; pasarlo hace perder el control. |
 | Lunas carmesí | Evento del mundo que vuelve a las bestias más agresivas. |
 | Campo de la zona bestia | Zona que fuerza la Fase Bestia al entrar. |
+
+---
+
+## 11. El arco final (unos 20 años después) 🟡
+
+> Material de capítulos muy lejanos. No entra en la primera versión del juego; queda como referencia.
+
+### Situación general
+
+| Tema | Estado | Detalle |
+|---|---|---|
+| Tiempo | ✅ Definido | Pasan unos **20 años** desde el inicio. En el penúltimo capítulo **Leo tiene unos 40 años** y **Ryu unos 20**, así que Leo rondaba los 20 en el Capítulo 1. |
+| El gremio | ✅ Definido | **Ya se reconstruyó**, pero los únicos a la altura del poder de esta etapa son **Leo, Ryu, Surger y Zero**. |
+| Escala | ✅ Definido | **Leo mide unos 5 metros**. Los **humanos normales** son mucho más pequeños, como los humanos frente a los cybertronianos. |
+| El falso Laval | ✅ Definido | Leo y sus aliados creen que **Laval** está recolectando los artefactos. En realidad es **Radamantho en su forma bestia de león**, parecida a la de Laval. |
+
+### Antepenúltimo capítulo: la traición de los humanos
+
+| Tema | Estado | Detalle |
+|---|---|---|
+| La traición | ✅ Definido | **Los humanos traicionan a Leo** y se llevan un **artefacto a otra dimensión**. Están **aliados con "Laval"**. |
+| Final | ✅ Definido | Termina con **Leo derrotado**, sin saber qué hacer, y con la **llegada inminente de "Laval"**. |
+
+### Penúltimo capítulo: Ruigerd
+
+| Tema | Estado | Detalle |
+|---|---|---|
+| Quiénes están | ✅ Definido | **Ryu, Surger, Zero y Leo.** |
+| Leo escondido | ✅ Definido | Sintiéndose derrotado, Leo **oculta la Espada del Caos** en un lugar al que **solo su portador puede llegar**, y **vaga oculto por la ciudad**. |
+| Ryu y Leo | ✅ Definido | **Ryu lo encuentra** y le pide que vaya con él. Pelean, y **Ryu en Fase 3 derrota a Leo**, aunque Leo use su forma bestia. |
+| Ruigerd | ✅ Definido | **No sabe nada de los artefactos.** Solo quiere **reconquistar lo que alguna vez fue suyo**. Engaña a Ryu para que lo libere (ver sección 4, *Los dotados*). |
+| Leo y sus aliados | ✅ Definido | Ya saben que "Laval" está reuniendo los artefactos. |
+
+### Capítulo final: la última pieza
+
+| Momento | Estado | Detalle |
+|---|---|---|
+| El ataque | ✅ Definido | **Radamantho aparece en su forma bestia de león** (todos creen que es Laval), con **varios artefactos** en su poder. **Zero y Cleo defienden la Espada del Caos.** |
+| Leo | ✅ Definido | **Pierde el control de su forma bestia**; está a punto de alcanzar la **Forma 4**. |
+| El sacrificio de Zero | ✅ Definido | Zero **se sacrifica**: lanza un ataque que **lo congela todo** y usa **el escudo (artefacto)** para contener la explosión alrededor de Radamantho. **No funciona.** Radamantho **le quita el artefacto del escudo** y va por Cleo. |
+| Leo en Forma 4 | ✅ Definido | Leo aparece **en Forma 4** y le da mejor pelea. |
+| La caída de la espada | 🟡 Parcial | Por un descuido de Leo (cómo, por definir), Radamantho **llega a la Espada del Caos y la destruye**, obteniendo **el último artefacto**. |
+| La revelación | ✅ Definido | Radamantho **se transforma en Forma 4** y **se revela**: no era Laval. |
+
+### Por definir ❓
+
+1. Cómo ocurre el descuido que deja a Radamantho llegar a la espada.
+2. Qué pasa después de la revelación.
+3. Qué artefacto se llevan los humanos y cómo se recupera.

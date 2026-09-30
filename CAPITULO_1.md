@@ -24,7 +24,7 @@
 |---|---|---|
 | **Leo** | ✅ Definido | Protagonista. Curioso y con ganas de superarse. **Creció junto a Cleo.** Entra al gremio por accidente, en el rango más bajo. Su **arrogancia no es propia**: es un **efecto de la Espada del Caos**, que lo va llamando y creciendo en él hasta que intenta dominar ambas espadas. Su elemento es la **energía**. |
 | **Cleo** | ✅ Definido | **Amigo de Leo desde antes** de que entrara al gremio; crecieron juntos y es **3 años mayor**. Ya era **miembro del gremio**, con color **rojo granate** (un rojo más oscuro que el de Rojo; en su caso el color **no indica rango**). Es un **agente que actúa en el exterior**: en el capítulo **solo aparece al principio**, cuando ve cómo Leo es nombrado por error, y **no está presente** durante la caída. Tras el destierro, **Leo va a buscarlo** para pedirle apoyo. |
-| **Rojo** (Radamantho) | 🟡 Parcial | Líder del gremio. Su nombre real es **Radamantho**; casi todos lo llaman Rojo. **No controla ningún elemento.** Acepta a Leo a regañadientes y fabrica la historia del elegido. Detiene a Leo poseído **cortándole el brazo** y luego lo destierra. |
+| **Rojo** (Radamantho) | 🟡 Parcial | Líder del gremio. Su nombre real es **Radamantho**; casi todos lo llaman Rojo. **Líder nato**: oculta sus verdaderas intenciones, pero **siempre vela por los suyos**. **Heredó el liderazgo** del gremio. Su armadura es de **fuego**, pero **no controla ese elemento**. No tiene un lado blando: lo mueve **el poder**. Acepta a Leo a regañadientes y fabrica la historia del elegido. Detiene a Leo poseído **cortándole el brazo** y luego lo destierra. |
 | **Surger** (Azul) | ✅ Definido | Subordinado directo de Rojo. **Siempre le guarda rencor a Leo**: dice que no merecía ese lugar porque **llegó sin ningún entrenamiento previo**. Usa **dos espadas largas** y **controla la electricidad**. Es de los **primeros en caer a manos de Leo** poseído. |
 | **Stronger** (Blanco) | ✅ Definido | Subordinado directo de Rojo. **Amable con Leo**, lo ve como un gran amigo y lo **ayuda en su camino**. **Controla el hielo**. Su **brazo izquierdo** está cubierto por completo por un arma con una **sierra** y **puntas de hielo**. **Muere por la espalda** a manos de Leo poseído, sin sentir el peligro. |
 | **El candidato desplazado** | 🟡 Parcial | Aspirante que llevaba años entrenando para la prueba que Leo ocupó. Aun así, se vuelve **amigo de Leo**: es un **personaje secundario** (NPC) que **puede ayudarlo** durante el capítulo. Es **uno de los que pelean contra Leo poseído y mueren**. Nombre por definir. |
@@ -120,6 +120,7 @@ Leo despierta entre las ruinas. **Rojo lo encara** y le echa en cara todo lo que
 | La guerra y la tregua | ✅ Definido | El gremio y los Guardianes estaban en guerra. El líder de los Guardianes, que antes era bueno, pacta en secreto una **tregua con Rojo**: el gremio caería y los Guardianes tomarían el control. |
 | La ambición de Rojo | ✅ Definido | Rojo quería en realidad **controlar ambas facciones**. No hay un tercero detrás: todo nace de Rojo y del líder de los Guardianes. |
 | Lo que Rojo quería | ✅ Definido | **Deshacer el gremio, no matar a sus miembros.** Idea por desarrollar. |
+| El motivo de fondo | ✅ Definido | Radamantho busca **los artefactos**, que reunidos dan un poder enorme (como las gemas del infinito). Controlar ambas facciones es un medio para conseguirlos. **La Espada del Caos guarda uno de ellos**: por eso le interesa la tregua con los Guardianes, que la custodian. |
 | El plan se rompe | ✅ Definido | Su aliado, el líder de los Guardianes, **muere**. Rojo se queda con la espada y piensa cómo volver a su plan original. |
 | El papel de Leo | ✅ Definido | Leo **desvió el plan de Rojo, pero no lo detuvo**: **llamado por la propia espada** y bajo su influencia, provocó la caída. |
 | La resurrección | ✅ Definido | No fue la Espada de la Luz: fueron **Ryno y Falco**. |
@@ -145,3 +146,4 @@ Solo quedan **nombres** y un detalle de escena; ninguno bloquea el desarrollo:
 2. Nombre del **líder de los Guardianes**.
 3. Nombre del **candidato desplazado**.
 4. Momento y lugar exactos en que despierta la **Espada de la Luz**.
+5. De quién **heredó Radamantho** el liderazgo del gremio.
