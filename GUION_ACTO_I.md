@@ -2,7 +2,7 @@
 
 > Diálogos del primer acto, listos para pasar al sistema de diálogos.
 > Historia de referencia: `CAPITULO_1.md`. Reglas del mundo: `LORE.md`.
-> **Versión:** 0.1 (borrador)
+> **Versión:** 0.2 (borrador)
 
 **Convenciones**
 
@@ -30,16 +30,80 @@
 
 **Narración:** Una guerra que cambia el destino de unos... y acaba el de otros.
 
+*(Fundido a negro.)*
+
+---
+
+## Escena 1. La pesadilla
+
+**Lugar:** un sueño.
+**Personajes:** Leo.
+
+*(Un lugar frío y vacío. Todo es blanco y gris, como si el aire estuviera congelado. Leo está solo.)*
+
+**Leo:** ...¿Dónde estoy?
+
+*(A lo lejos, en la oscuridad, una mirada. No tiene rostro, solo unos ojos que lo observan desde arriba. Lo juzgan.)*
+
+**Leo:** ¿Quién eres?
+
+*(No hay respuesta. Un ardor le recorre el brazo derecho, cada vez más fuerte.)*
+
+**Leo:** ¡Ah...! Mi brazo...
+
+*(Un aura oscura brota de su brazo y empieza a cubrirlo. Leo intenta apartarla, pero lo envuelve cada vez más.)*
+
+**Leo:** No... ¡Suéltame!
+
+*(La oscuridad lo consume por completo. Silencio.)*
+
+**[Juego]** Escena sin control del jugador. Cada imagen anticipa algo del capítulo: la mirada que juzga, el brazo derecho y la oscuridad de la Espada del Caos. Nada se explica.
+
+---
+
+## Escena 2. Despertar
+
+**Lugar:** el cuarto de Leo, en un edificio pequeño de Vértice. Amanecer.
+**Personajes:** Leo.
+
+*(Leo despierta de golpe, sudando. El cuarto está en penumbra; por la ventana entran las luces de la ciudad.)*
+
+**Leo:** *(respira hondo)* ...Otra vez ese sueño.
+
+*(Se mira el brazo derecho. No tiene nada.)*
+
+**[Juego]** Tutorial de movimiento: «Usa WASD o las flechas para moverte». Leo puede recorrer su cuarto.
+
+**Narración:** El departamento está en silencio. No hay nadie más.
+
+**Mesa** *(si Leo la examina)*:
+**Narración:** Un plato sin lavar y una sola taza.
+
+**Foto en la pared** *(si Leo la examina)*:
+**Narración:** Leo y Cleo de niños, en la plaza del gremio. Cleo sonríe con los brazos cruzados; Leo apenas le llega al hombro.
+
+**Comunicador** *(tiene un mensaje nuevo)*:
+**Narración:** Mensaje de Cleo.
+**Cleo** *(mensaje)*: Hoy es tu excursión a la sede. No llegues tarde, no te separes del grupo y come algo antes de salir.
+**Cleo** *(mensaje)*: Y no toques nada.
+**Leo:** *(sonríe apenas)* ...Ni que fuera un niño.
+
+**Leo:** *(para sí)* La excursión. Casi lo olvido.
+
+**[Juego]** Al salir por la puerta, fundido a la plaza de la sede.
+
+---
+
 *(Fundido a la plaza de la sede. Mañana. Un grupo de estudiantes frente a la fuente.)*
 
 ---
 
-## Escena 1. La excursión
+## Escena 3. La excursión
 
 **Lugar:** plaza frente a la sede del gremio.
 **Personajes:** Leo, Profesora, Guía del gremio, compañeros de clase, civiles.
 
-**[Juego]** Tutorial de movimiento: «Usa WASD o las flechas para moverte». Leo empieza junto a su grupo.
+**[Juego]** Leo empieza junto a su grupo.
 
 **Profesora:** Muy bien, todos juntos. Nadie se separa del grupo, ¿entendido?
 
@@ -98,7 +162,7 @@
 
 ---
 
-## Escena 2. El salón de los héroes
+## Escena 4. El salón de los héroes
 
 **Lugar:** vestíbulo y salón de los héroes, dentro de la sede.
 **Personajes:** Leo, Guía, grupo, `[CANDIDATO]`.
@@ -152,7 +216,7 @@
 
 ---
 
-## Escena 3. Leo se separa
+## Escena 5. Leo se separa
 
 **Lugar:** pasillos de la sede.
 **Personajes:** Leo, Guía (a lo lejos), guardias.
@@ -187,7 +251,7 @@
 
 ---
 
-## Escena 4. La cámara
+## Escena 6. La cámara
 
 **Lugar:** cámara de la prueba.
 **Personajes:** Leo, Voz del sistema.
@@ -231,7 +295,7 @@
 
 ---
 
-## Escena 5. La armadura lo acepta
+## Escena 7. La armadura lo acepta
 
 *(El custodio cae. Silencio.)*
 
@@ -263,7 +327,7 @@
 
 ---
 
-## Escena 6. Nombrado por error
+## Escena 8. Nombrado por error
 
 **Lugar:** cámara de la prueba.
 **Personajes:** Leo, Radamantho, Surger, Stronger, `[CANDIDATO]`, Cleo.
@@ -338,7 +402,7 @@
 
 ---
 
-## Escena 7. Lo que Radamantho no dice
+## Escena 9. Lo que Radamantho no dice
 
 **Lugar:** pasillo fuera de la cámara.
 **Personajes:** Radamantho, Surger. *(Leo no está presente. El jugador ve la escena como espectador.)*
@@ -365,7 +429,7 @@
 
 ---
 
-## Escena 8. El elegido
+## Escena 10. El elegido
 
 **Lugar:** plaza frente a la sede. Tarde.
 **Personajes:** Leo, Radamantho, Cleo, Stronger, multitud.
