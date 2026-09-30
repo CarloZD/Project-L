@@ -3,7 +3,7 @@
 > Documento vivo. Aquí se registran las reglas del universo de Leo a medida que se van definiendo.
 > Cada dato está marcado como **✅ Definido**, **🟡 Parcial** (hay idea, falta detalle) o **❓ Abierto** (por decidir).
 
-**Versión:** 0.16
+**Versión:** 0.17
 
 > 🎮 **Alcance del juego:** la primera versión del juego abarca **solo el Capítulo 1** (comienzo de Leo y caída del gremio). El resto del documento es referencia para el futuro.
 
@@ -33,7 +33,7 @@
 | **Cap. 6** | 🟡 Parcial | Leo **revive a Stronger** con la Espada del Caos. Al principio Stronger **ayuda a Leo** porque no recuerda bien quién lo mató. En un enfrentamiento contra Rojo, Leo y Stronger **se fusionan**, y Stronger alcanza a ver parte de esos recuerdos. **Rojo le cuenta la verdad** y Stronger se alía con **Rojo** y **Laval**, ambos deformes. |
 | **Cap. 7** | 🟡 Parcial | Aparecen los **tres individuos del futuro** (ver sección 5). |
 | **Capítulos posteriores (por definir)** | 🟡 Parcial | La gente bestia recibe **más trasfondo**. Leo intenta el salto de bestia a Forma 4, **falla** y obtiene la **Fase Bestia de gorila**. Entre estos capítulos entra el **multiverso** (realidades alternativas). |
-| **Capítulo futuro (por definir)** | 🟡 Parcial | Rojo es **dado por muerto** (está en otro planeta). Leo, ya más poderoso, viaja con **Cleo** y **Ryno**. Los fragmentos de la Espada de la Luz despiertan a un enemigo antiguo. |
+| **Capítulo futuro (por definir)** | 🟡 Parcial | Rojo es **dado por muerto** (está en otro planeta). Leo, ya más poderoso, viaja con **Cleo** y **Ryno**. Los fragmentos de la Espada de la Luz debilitan el sello de **Ruigerd**, que engaña a **Ryu** para que lo libere (ver secciones 4 y 7). |
 | **Capítulo final** | ❓ Abierto | Uno de los individuos del futuro sobrevive hasta aquí. |
 
 ---
@@ -46,8 +46,8 @@ Los héroes pertenecen a un **gremio** organizado con una **jerarquía similar a
 |---|---|---|
 | Organización | ✅ Definido | Gremio de héroes con rangos de estilo militar. |
 | Miembros conocidos | 🟡 Parcial | **Surger** (Azul), **Stronger** (Blanco), **Drax** (Amarillo, sin elemento propio). |
-| Colores y elementos | ✅ Definido | El color de la armadura **no define** el elemento que controla un héroe. |
-| Líder | 🟡 Parcial | Actualmente llamado **Rojo**. El nombre está en revisión. |
+| Colores y elementos | ✅ Definido | El color de la armadura **no define** el elemento. El elemento depende de **la armadura**, y no todos logran manifestarlo (ver sección 4, *Elementos*). |
+| Líder | ✅ Definido | Su nombre real es **Radamantho**, pero casi todos lo conocen como **Rojo**, por su color. |
 | Nombre del gremio | ❓ Abierto | |
 | Cómo se elige a un héroe / la prueba | ❓ Abierto | Leo obtuvo su armadura al irrumpir en la prueba destinada a otro héroe. Falta definir quién organiza la prueba y quién era ese héroe. |
 
@@ -78,7 +78,7 @@ Referencia tomada de los juguetes originales con los que nació la historia. Se 
 | Personaje | Colores | Rasgos |
 |---|---|---|
 | **Leo** | **Verde lima**, detalles **rojos**, partes **negras** | Porta ambas espadas: **Espada del Caos en la mano derecha**, **Espada de la Luz en la izquierda**. |
-| **Rojo** | **Rojo** y **naranja** | Espadas largas y delgadas. |
+| **Rojo** (Radamantho) | **Rojo** y **naranja** | Espadas largas y delgadas. **No controla ningún elemento.** |
 | **Surger** | **Azul** | Dos espadas con hojas **amarillas**, ligadas a la electricidad. |
 | **Stronger** | **Blanco** con detalles **celestes** | Brazo izquierdo cubierto por un arma con **puntas de hielo**. |
 | **Drax** | **Amarillo** con partes **grises** | Sin elemento propio. |
@@ -102,6 +102,39 @@ Un héroe que entrena lo suficiente puede usar su poder **sin armadura**, e incl
 | Capítulo 1 | **Aún no se conoce el funcionamiento completo de las armaduras.** |
 | Más adelante | Se revela que el poder es del héroe y la armadura solo lo potencia. |
 
+### Elementos ✅
+
+| Tema | Estado | Detalle |
+|---|---|---|
+| De dónde salen | ✅ Definido | Los poderes elementales se **manifiestan según la armadura**: cada armadura tiene un elemento correspondiente, pero **no todos los usuarios logran controlarlo**. |
+| Aprenderlo más tarde | ✅ Definido | Quien no lo controla al principio **puede llegar a hacerlo** (caso de Zero). |
+| Linaje | ✅ Definido | Los de un **mismo linaje comparten elemento**: **Zero y Stronger son parientes lejanos** y los dos son de hielo. |
+| Mismo color, sin parentesco | ✅ Definido | **Radamantho, Falco y Cleo** comparten el color rojo **sin ninguna relación de sangre**, pero **los tres pueden llegar a dominar** el elemento de la armadura roja. |
+| Elemento de la armadura roja | ❓ Abierto | |
+| Dependencia de la armadura | ✅ Definido | **En el Capítulo 1 todos los héroes son Forma 1** y **dependen de su armadura**: sin ella no pueden usar su elemento. |
+
+| Personaje | Armadura | Elemento |
+|---|---|---|
+| **Leo** | Verde lima | **Energía** |
+| **Surger** | Azul | **Electricidad** (lo controla) |
+| **Stronger** | Blanca | **Hielo** (lo controla) |
+| **Radamantho (Rojo)** | Roja | Elemento rojo (por definir). **Podría dominarlo, pero no lo controla** |
+| **Drax** | Amarilla | Sin elemento propio |
+| **Zero (Ryno)** | Blanca | **Hielo**, por su linaje con Stronger. **No lo controla** al principio; más adelante se explora y **logra controlarlo** |
+| **Falco** | Roja | Elemento rojo (por definir). **Podría dominarlo, pero no lo controla** |
+| **Cleo** | Rojo granate | Elemento rojo (por definir). **Puede llegar a dominarlo** |
+
+### Los dotados ✅
+
+| Tema | Estado | Detalle |
+|---|---|---|
+| Qué son | ✅ Definido | En **cada generación nace un usuario dotado de un gran poder**. Casi siempre resulta ser una **persona maligna**. |
+| La creencia | ✅ Definido | En el Capítulo 1 **esta creencia todavía no existe**. Nace más adelante, **por Ryu**. |
+| Radamantho | ✅ Definido | **Es uno de los dotados.** |
+| Ruigerd | ✅ Definido | **Es un dotado** de hace al menos 500 años. |
+| Leo | ✅ Definido | Lo es **parcialmente**. |
+| Ryu | 🟡 Parcial | Personaje de capítulos futuros. Tiene un **poder oculto** enorme. **Ruigerd lo engaña** para que lo libere, y al hacerlo se desata todo ese poder: puede usar las **Fases 1, 2, 3 y el Ultra**. Más adelante consigue también la **Fase Bestia, en forma de lobo**. Es por él que nace la creencia de los dotados. |
+
 ### Fases (transformaciones de la armadura) ✅
 
 | Fase | Especialidad | Desgaste |
@@ -111,7 +144,7 @@ Un héroe que entrena lo suficiente puede usar su poder **sin armadura**, e incl
 | **Fase 3** | Tanque y ataque | **Muy alto** |
 | **Fase 4** | Combina todo | Equilibrado |
 | **Ultra** | Potencia todo | **Muy alto** |
-| **Fase Bestia (gorila)** | Ver sección 6 | Límite diario |
+| **Fase Bestia** | Ver sección 6. El animal varía: **gorila** en Leo, **lobo** en Ryu. | Límite diario |
 
 | Tema | Estado | Detalle |
 |---|---|---|
@@ -135,9 +168,9 @@ Un héroe que entrena lo suficiente puede usar su poder **sin armadura**, e incl
 
 | Forma | Descripción | Individuos conocidos |
 |---|---|---|
-| **Forma 1** | Personas de tamaño promedio, sin grandes capacidades. Los **civiles** son gente común que **no tiene la capacidad de evolucionar**. Visualmente son personas normales, sin armadura (referencia: la gente de la Ciudadela en *Twilight Princess*). | La mayoría, incluidos los civiles. |
+| **Forma 1** | Personas de tamaño promedio, sin grandes capacidades. Los **civiles** son gente común que **no tiene la capacidad de evolucionar**. Visualmente son personas normales, sin armadura (referencia: la gente de la Ciudadela en *Twilight Princess*). Los **héroes del Capítulo 1 también son Forma 1**, pero ellos sí pueden evolucionar; **dependen por completo de su armadura**. **Anatomía de referencia** (según la planeación original): cabeza pequeña, torso delgado como un armazón, brazos largos y finos, manos grandes, y piernas con pantorrillas y pies grandes y pesados. | La mayoría, incluidos los civiles y los héroes del Capítulo 1. |
 | **Forma 2** | Mayor altura y fuerza. | ❓ |
-| **Forma 3** | Igual que la Forma 2 en físico, pero **no pueden transformarse** (no usan fases). Su **armadura les da casi todo su poder**, que ya está **completamente desbloqueado**. Ellos mismos lo llaman **"estado definitivo"**. **Excepción a la regla principal:** a este nivel, cuerpo y armadura están tan unidos que ya no se distinguen. El poder sigue siendo de ellos, pero lo canalizan por completo a través de la armadura; sin ella seguirían siendo fuertes, pero no podrían sacar ese poder. Solo se conocen **tres individuos**, todos del futuro. | Ryno, Falco y el tercero del futuro. |
+| **Forma 3** | Igual que la Forma 2 en físico, pero **no pueden transformarse** (no usan fases). Su **armadura les da casi todo su poder**, que ya está **completamente desbloqueado**. Ellos mismos lo llaman **"estado definitivo"**. **Excepción a la regla principal:** a este nivel, cuerpo y armadura están tan unidos que ya no se distinguen. El poder sigue siendo de ellos, pero lo canalizan por completo a través de la armadura; sin ella seguirían siendo fuertes, pero no podrían sacar ese poder. Solo se conocen **tres individuos**, todos del futuro. **Pueden estar sin armadura**; en ese caso su cuerpo se ve igual al de la Forma 2. Con la armadura puesta, el cuerpo es el mismo en todos y **solo cambia la cabeza**. Zero lleva un casco con cresta alta y una **garra mecánica** en la mano izquierda, que es una **modificación propia**. | Ryno, Falco y el tercero del futuro. |
 | **Forma 4** | Se alcanza desde el estado bestia. El intento de salto solo ocurre **una vez**. | **Rojo**, en una versión **imperfecta** (su salto salió a medias), sin todo su potencial. |
 
 ### Escala de poder (referencia narrativa) 🟡
@@ -166,7 +199,7 @@ Estos números son **solo una referencia narrativa** para comparar el poder entr
 |---|---|---|
 | Quiénes son | ✅ Definido | Tres individuos del futuro, los únicos conocidos en **Forma 3**. Aparecen en el Capítulo 7. |
 | El malvado | ✅ Definido | **Uno de los tres es malvado.** |
-| Ryno | ✅ Definido | **Uno de los individuos del futuro**, en **Forma 3**. Bajo la armadura se hace llamar **Zero**. Junto con Falco, revive a Leo. Más adelante acompaña a Leo junto a Cleo. Gracias a una **mutación propia** despierta la **Fase 4**, aunque la Forma 3 normalmente no puede transformarse. **Sobrevive hasta el capítulo final.** |
+| Ryno | ✅ Definido | **Uno de los individuos del futuro**, en **Forma 3**. Su **nombre civil**, el de quien está bajo la armadura, es **Zero**: un nombre que **él mismo se puso**. Junto con Falco, revive a Leo. Más adelante acompaña a Leo junto a Cleo. Gracias a una **mutación propia** despierta la **Fase 4**, aunque la Forma 3 normalmente no puede transformarse. **Sobrevive hasta el capítulo final.** |
 | Falco | ✅ Definido | **Uno de los individuos del futuro**, en **Forma 3**. Junto con Ryno, revive a Leo. **Muere por culpa de unas visiones** (se explica en un capítulo futuro). |
 | El tercero del futuro (el malvado) | 🟡 Parcial | No aparece en el Capítulo 1. |
 | Los otros dos | ✅ Definido | Son quienes **resucitaron a Leo** en el Capítulo 1. **Uno muere**; el otro **sobrevive hasta el capítulo final** y es el único usuario conocido de la **Fase 4**. |
@@ -233,8 +266,8 @@ Estos números son **solo una referencia narrativa** para comparar el poder entr
 | Espada del Caos | ✅ Definido | Si el portador **no tiene equilibrio**, la espada **lo posee**. Con experiencia, permite **traer a la vida a otros**. |
 | Custodios | ✅ Definido | La Espada del Caos estaba bajo custodia de los **Guardianes**, facción enemiga del gremio. Su líder pierde el control al tomarla. |
 | Causa de la posesión | ✅ Definido | **No hay un tercero.** La espada posee a quien no tiene equilibrio. En el Capítulo 1, detrás de los hechos están el plan de **Rojo** y su alianza con el **líder de los Guardianes** (ver `CAPITULO_1.md`). |
-| Espada de la Luz | ✅ Definido | **Solo responde a Leo**, que la "liberó". Al principio se cree que causó la resurrección de Leo. **Leo la destruye por accidente en el Capítulo 2.** Mucho después, sus **fragmentos despiertan a un enemigo antiguo** y se unen a su arma. |
-| El enemigo antiguo | 🟡 Parcial | **Duerme bajo la fuente de la plaza del gremio**, en Vértice. Es quien absorbe los restos de la Espada de la Luz. Nombre y naturaleza por definir. |
+| Espada de la Luz | ✅ Definido | **Solo responde a Leo**, que la "liberó". Al principio se cree que causó la resurrección de Leo. **Leo la destruye por accidente en el Capítulo 2.** Mucho después, sus **fragmentos son absorbidos por Ruigerd** y se unen a su arma. |
+| Ruigerd, el enemigo antiguo | 🟡 Parcial | **Sellado bajo la fuente de la plaza del gremio**, en Vértice, desde hace **al menos 500 años**. Cuando la Espada de la Luz se quiebra, **absorbe sus fragmentos** y el **sello se debilita**. Con engaños consigue que **Ryu lo libere**. Naturaleza por definir. |
 | ¿Qué espada contiene el artefacto? | ❓ Abierto | ¿Una, ambas, o las dos juntas forman uno solo? |
 | ¿Solo el Caos es esencia negativa? | ❓ Abierto | Idea a evaluar: si la regla es el **equilibrio**, un exceso de Luz también podría tener consecuencias. |
 | Origen y creador de las armas | ❓ Abierto | |
