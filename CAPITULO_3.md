@@ -13,7 +13,7 @@
 | Personaje | Estado | Descripción |
 |---|---|---|
 | **Leo** | ✅ Definido | Protector de la ciudad desde el Capítulo 2. Regresa tras su ausencia. Termina el capítulo con un **corte en el rostro**. |
-| **Laval** | ✅ Definido | **Hombre bestia** con **rasgos de león** y **armadura dorada**. **Secuaz de Rojo**. Llega a querer ser un **protector** de verdad. Tras su caída a la lava **sobrevive completamente deformado**. |
+| **Laval** | ✅ Definido | **Hombre bestia** con **rasgos de león** y **armadura dorada**. **Secuaz de Radamantho**. Llega a querer ser un **protector** de verdad. Tras su caída a la lava **sobrevive completamente deformado**. |
 
 ---
 
@@ -39,7 +39,7 @@ Laval **no muere**, pero queda **completamente deformado**.
 
 ## Preguntas abiertas
 
-1. ¿Qué hace Leo durante su ausencia? ¿Encuentra a Rojo y entrena con él?
-2. ¿Por qué Laval quiere matar a Leo: órdenes de Rojo, odio propio o ambas cosas?
+1. ¿Qué hace Leo durante su ausencia? ¿Encuentra a Radamantho y entrena con él?
+2. ¿Por qué Laval quiere matar a Leo: órdenes de Radamantho, odio propio o ambas cosas?
 3. ¿Laval nació bestia o se volvió bestia?
 4. ¿Qué pasa con Laval después de quedar deformado? ¿Vuelve más adelante?

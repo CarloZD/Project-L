@@ -25,15 +25,15 @@
 
 | Capítulo | Estado | Acontecimientos |
 |---|---|---|
-| **Cap. 1: Comienzo y caída** | ✅ Definido | Ocurre en la ciudad de **Vértice**. Leo obtiene su armadura, recibe la Espada de la Luz, muere y resucita en la cima de la sede del gremio, derrota al líder de los Guardianes, intenta dominar ambas espadas y es poseído por la Espada del Caos. Rojo lo detiene **cortándole el brazo derecho**. El gremio cae y Leo es desterrado. **No hay transformaciones.** Ver `CAPITULO_1.md`. |
+| **Cap. 1: Comienzo y caída** | ✅ Definido | Ocurre en la ciudad de **Vértice**. Leo obtiene su armadura, recibe la Espada de la Luz, muere y resucita en la cima de la sede del gremio, derrota al líder de los Guardianes, intenta dominar ambas espadas y es poseído por la Espada del Caos. Radamantho lo detiene **cortándole el brazo derecho**. El gremio cae y Leo es desterrado. **No hay transformaciones.** Ver `CAPITULO_1.md`. |
 | **Cap. 2** | 🟡 Parcial | Primer encuentro con Leo Sombrío. **Leo destruye por accidente la Espada de la Luz.** Aún no hay transformaciones. Ver `CAPITULO_2.md`. |
-| **Cap. 3** | 🟡 Parcial | En ausencia de Leo aparece **Laval**, hombre bestia de rasgos de león y secuaz de Rojo. Al regresar Leo, Laval intenta matarlo; la batalla termina en un **volcán**, con Leo marcado por un **corte en el rostro** y Laval cayendo a la lava. Ver `CAPITULO_3.md`. |
+| **Cap. 3** | 🟡 Parcial | En ausencia de Leo aparece **Laval**, hombre bestia de rasgos de león y secuaz de Radamantho. Al regresar Leo, Laval intenta matarlo; la batalla termina en un **volcán**, con Leo marcado por un **corte en el rostro** y Laval cayendo a la lava. Ver `CAPITULO_3.md`. |
 | **Cap. 4** | 🟡 Parcial | **Empiezan las transformaciones.** Leo Sombrío es superior a Leo. Leo desbloquea la **Fase 1**. Se repite el patrón: cada vez que Leo alcanza una fase, Leo Sombrío ya domina la siguiente, hasta llegar a la **Fase 3**. |
-| **Cap. 5** | 🟡 Parcial | Rojo regresa con su cuerpo mutado a una **Forma 4 imperfecta**. Se alía con Leo Sombrío y luego lo **traiciona**. Leo Sombrío une fuerzas con Leo y se **fusionan** (ver sección 8). El pequeño gremio que Leo había reconstruido se pierde. Leo comienza a sufrir **episodios** causados por la parte maligna de Leo Sombrío. |
-| **Cap. 6** | 🟡 Parcial | Leo **revive a Stronger** con la Espada del Caos. Al principio Stronger **ayuda a Leo** porque no recuerda bien quién lo mató. En un enfrentamiento contra Rojo, Leo y Stronger **se fusionan**, y Stronger alcanza a ver parte de esos recuerdos. **Rojo le cuenta la verdad** y Stronger se alía con **Rojo** y **Laval**, ambos deformes. |
+| **Cap. 5** | 🟡 Parcial | Radamantho regresa con su cuerpo mutado a una **Forma 4 imperfecta**. Se alía con Leo Sombrío y luego lo **traiciona**. Leo Sombrío une fuerzas con Leo y se **fusionan** (ver sección 8). El pequeño gremio que Leo había reconstruido se pierde. Leo comienza a sufrir **episodios** causados por la parte maligna de Leo Sombrío. |
+| **Cap. 6** | 🟡 Parcial | Leo **revive a Stronger** con la Espada del Caos. Al principio Stronger **ayuda a Leo** porque no recuerda bien quién lo mató. En un enfrentamiento contra Radamantho, Leo y Stronger **se fusionan**, y Stronger alcanza a ver parte de esos recuerdos. **Radamantho le cuenta la verdad** y Stronger se alía con **Radamantho** y **Laval**, ambos deformes. |
 | **Cap. 7** | 🟡 Parcial | Aparecen los **tres individuos del futuro** (ver sección 5). |
 | **Capítulos posteriores (por definir)** | 🟡 Parcial | La gente bestia recibe **más trasfondo**. Leo manifiesta su **Fase Bestia de gorila**; al principio se cree que es su evolución a la Forma 4, pero vuelve a su forma normal. Entre estos capítulos entra el **multiverso** (realidades alternativas). |
-| **Capítulo futuro (por definir)** | 🟡 Parcial | Rojo es **dado por muerto** (está en otro planeta). Leo, ya más poderoso, viaja con **Cleo** y **Ryno**. Los fragmentos de la Espada de la Luz debilitan el sello de **Ruigerd**, que engaña a **Ryu** para que lo libere (ver secciones 4 y 7). |
+| **Capítulo futuro (por definir)** | 🟡 Parcial | Radamantho es **dado por muerto** (está en otro planeta). Leo, ya más poderoso, viaja con **Cleo** y **Ryno**. Los fragmentos de la Espada de la Luz debilitan el sello de **Ruigerd**, que engaña a **Ryu** para que lo libere (ver secciones 4 y 7). |
 | **Arco final** | 🟡 Parcial | Ocurre unos **20 años** después del inicio. Tres capítulos seguidos; ver sección 11, *El arco final*. |
 
 ---
@@ -47,7 +47,7 @@ Los héroes pertenecen a un **gremio** organizado con una **jerarquía similar a
 | Organización | ✅ Definido | Gremio de héroes con rangos de estilo militar. |
 | Miembros conocidos | 🟡 Parcial | **Surger** (Azul), **Stronger** (Blanco), **Drax** (Amarillo, sin elemento propio). |
 | Colores y elementos | ✅ Definido | El color de la armadura **no define** el elemento. El elemento depende de **la armadura**, y no todos logran manifestarlo (ver sección 4, *Elementos*). |
-| Líder | ✅ Definido | Su nombre real es **Radamantho**, pero casi todos lo conocen como **Rojo**, por su color. **Líder nato**: oculta sus verdaderas intenciones, pero **siempre vela por los suyos**. **Heredó el liderazgo** del gremio (de quién, por definir). Su verdadero objetivo son **los artefactos**. |
+| Líder | ✅ Definido | Se llama **Radamantho**. **Líder nato**: oculta sus verdaderas intenciones, pero **siempre vela por los suyos**. **Heredó el liderazgo** del gremio (de quién, por definir). Su verdadero objetivo son **los artefactos**. |
 | Nombre del gremio | ❓ Abierto | |
 | Cómo se elige a un héroe / la prueba | ❓ Abierto | Leo obtuvo su armadura al irrumpir en la prueba destinada a otro héroe. Falta definir quién organiza la prueba y quién era ese héroe. |
 
@@ -67,7 +67,7 @@ El color **no siempre indica rango**: **Cleo**, amigo de Leo, es **rojo granate*
 
 | Tema | Estado | Detalle |
 |---|---|---|
-| Destrucción del gremio | ✅ Definido | Tras la posesión de Leo por la Espada del Caos, **mueren casi todos** y la jerarquía desaparece. Rojo sobrevive. |
+| Destrucción del gremio | ✅ Definido | Tras la posesión de Leo por la Espada del Caos, **mueren casi todos** y la jerarquía desaparece. Radamantho sobrevive. |
 | Reconstrucción | ✅ Definido | Leo **reconstruye un pequeño gremio** más adelante, que se pierde en el Capítulo 5. |
 | Nuevo nivel | ✅ Definido | La escala de poder anterior ya no basta: solo **Leo y otros 3 o 4 héroes** están a la altura de la nueva etapa. |
 
@@ -78,7 +78,7 @@ Referencia tomada de los juguetes originales con los que nació la historia. Se 
 | Personaje | Colores | Rasgos |
 |---|---|---|
 | **Leo** | **Verde lima**, detalles **rojos**, partes **negras** | Porta ambas espadas: **Espada del Caos en la mano derecha**, **Espada de la Luz en la izquierda**. |
-| **Rojo** (Radamantho) | **Rojo** y **naranja** | Espadas largas y delgadas. **No controla ningún elemento.** |
+| **Radamantho** | **Rojo** y **naranja** | Espadas largas y delgadas. **No controla ningún elemento.** |
 | **Surger** | **Azul** | Dos espadas con hojas **amarillas**, ligadas a la electricidad. |
 | **Stronger** | **Blanco** con detalles **celestes** | Brazo izquierdo cubierto por un arma con **puntas de hielo**. |
 | **Drax** | **Amarillo** con partes **grises** | Sin elemento propio. |
@@ -118,7 +118,7 @@ Un héroe que entrena lo suficiente puede usar su poder **sin armadura**, e incl
 | **Leo** | Verde lima | **Energía** |
 | **Surger** | Azul | **Electricidad** (lo controla) |
 | **Stronger** | Blanca | **Hielo** (lo controla) |
-| **Radamantho (Rojo)** | Roja | **Fuego**. **Podría dominarlo, pero no lo controla** |
+| **Radamantho** | Roja | **Fuego**. **Podría dominarlo, pero no lo controla** |
 | **Drax** | Amarilla | Sin elemento propio |
 | **Zero (Ryno)** | Blanca | **Hielo**, por su linaje con Stronger. **No lo controla** al principio; más adelante se explora y **logra controlarlo** |
 | **Falco** | Roja | **Fuego**. **Podría dominarlo, pero no lo controla** |
@@ -197,7 +197,7 @@ Qué transformaciones y niveles se abren desde cada Forma:
 | **Forma 1** | Personas de tamaño promedio, sin grandes capacidades. Los **civiles** son gente común que **no tiene la capacidad de evolucionar**. Visualmente son personas normales, sin armadura (referencia: la gente de la Ciudadela en *Twilight Princess*). Los **héroes del Capítulo 1 también son Forma 1**, pero ellos sí pueden evolucionar; **dependen por completo de su armadura**. **Anatomía de referencia** (según la planeación original): cabeza pequeña, torso delgado como un armazón, brazos largos y finos, manos grandes, y piernas con pantorrillas y pies grandes y pesados. | La mayoría, incluidos los civiles y los héroes del Capítulo 1. |
 | **Forma 2** | Mayor altura y fuerza. | ❓ |
 | **Forma 3** | Igual que la Forma 2 en físico, pero **no pueden transformarse** (no usan fases). Su **armadura les da casi todo su poder**, que ya está **completamente desbloqueado**. Ellos mismos lo llaman **"estado definitivo"**. **Excepción a la regla principal:** a este nivel, cuerpo y armadura están tan unidos que ya no se distinguen. El poder sigue siendo de ellos, pero lo canalizan por completo a través de la armadura; sin ella seguirían siendo fuertes, pero no podrían sacar ese poder. Solo la alcanzan **Zero y Falco**, ambos del futuro. **Pueden estar sin armadura**; en ese caso su cuerpo se ve igual al de la Forma 2. Con la armadura puesta, el cuerpo es el mismo en todos y **solo cambia la cabeza**. Zero lleva un casco con cresta alta y una **garra mecánica** en la mano izquierda, que es una **modificación propia**. | Ryno (Zero) y Falco. |
-| **Forma 4** | Se alcanza desde el estado bestia. El intento de salto solo ocurre **una vez**. | **Rojo**, en una versión **imperfecta** (su salto salió a medias), sin todo su potencial. |
+| **Forma 4** | Se alcanza desde el estado bestia. El intento de salto solo ocurre **una vez**. | **Radamantho**, en una versión **imperfecta** (su salto salió a medias), sin todo su potencial. |
 
 ### Escala de poder (referencia narrativa) 🟡
 
@@ -205,7 +205,7 @@ Qué transformaciones y niveles se abren desde cada Forma:
 |---|---|
 | Leo al inicio | 2 |
 | Miembros del gremio | 2 a 3 |
-| Rojo, Azul y Blanco | 4 |
+| Radamantho, Surger y Stronger | 4 |
 | Leo resucitado (temporal, no vuelve a despertar) | 20 |
 | Leo tras la destrucción del gremio | 5 |
 
@@ -215,7 +215,7 @@ Estos números son **solo una referencia narrativa** para comparar el poder entr
 
 1. Origen del poder de los héroes (nunca se ha pensado; puede quedar abierto).
 2. Qué es exactamente la Forma 4.
-3. Cómo logra Rojo volver a intentar el salto, si la regla dice que solo hay un intento.
+3. Cómo logra Radamantho volver a intentar el salto, si la regla dice que solo hay un intento.
 
 ---
 
@@ -244,7 +244,7 @@ Estos números son **solo una referencia narrativa** para comparar el poder entr
 | Origen | ✅ Definido | **Existen ambos casos:** hay quienes **nacen** bestias y quienes **se vuelven** bestias. |
 | Camino a la Forma 4 | ✅ Definido | El estado bestia es un paso previo a la Forma 4. El salto de bestia a Forma 4 **solo se puede intentar una vez**. |
 | Caso de Leo | ✅ Definido | La primera vez que se manifestó su **Fase Bestia de gorila** se creyó que era su evolución a la Forma 4, pero **volvió a su forma normal**: era solo la Fase Bestia, **no un intento real**. Su **verdadero salto** llega en el **capítulo final**: pierde el control de su **Forma Bestia** y alcanza la **Forma 4**. |
-| Caso de Rojo | ✅ Definido | Su salto le sale **a medias** y obtiene una **Forma 4 imperfecta**. **De algún modo vuelve a intentarlo**, rompiendo la regla del intento único. **Es la excepción a la regla**; cómo lo logra está por definir (posible respuesta: los artefactos). |
+| Caso de Radamantho | ✅ Definido | Su salto le sale **a medias** y obtiene una **Forma 4 imperfecta**. **De algún modo vuelve a intentarlo**, rompiendo la regla del intento único. **Es la excepción a la regla**; cómo lo logra está por definir (posible respuesta: los artefactos). |
 
 ### Regeneración
 
@@ -293,7 +293,7 @@ Estos números son **solo una referencia narrativa** para comparar el poder entr
 | El arco | ✅ Definido | Puede **dividirse en dos espadas**. Aparece más adelante. |
 | Espada del Caos | ✅ Definido | Si el portador **no tiene equilibrio**, la espada **lo posee**. Con experiencia, permite **traer a la vida a otros**. |
 | Custodios | ✅ Definido | La Espada del Caos estaba bajo custodia de los **Guardianes**, facción enemiga del gremio. Su líder pierde el control al tomarla. |
-| Causa de la posesión | ✅ Definido | **No hay un tercero.** La espada posee a quien no tiene equilibrio. En el Capítulo 1, detrás de los hechos están el plan de **Rojo** y su alianza con el **líder de los Guardianes** (ver `CAPITULO_1.md`). |
+| Causa de la posesión | ✅ Definido | **No hay un tercero.** La espada posee a quien no tiene equilibrio. En el Capítulo 1, detrás de los hechos están el plan de **Radamantho** y su alianza con el **líder de los Guardianes** (ver `CAPITULO_1.md`). |
 | Espada de la Luz | ✅ Definido | **Solo responde a Leo**, que la "liberó". Al principio se cree que causó la resurrección de Leo. **Leo la destruye por accidente en el Capítulo 2.** Mucho después, sus **fragmentos son absorbidos por Ruigerd** y se unen a su arma. |
 | Ruigerd, el enemigo antiguo | 🟡 Parcial | **Sellado bajo la fuente de la plaza del gremio**, en Vértice, desde hace **al menos 500 años**. Cuando la Espada de la Luz se quiebra, **absorbe sus fragmentos** y el **sello se debilita**. Con engaños consigue que **Ryu lo libere**. Naturaleza por definir. |
 | ¿Qué espada contiene el artefacto? | ✅ Definido | La **Espada del Caos**. Radamantho la **destruye** en el capítulo final para quedarse con él, el último que le faltaba. |
@@ -320,10 +320,10 @@ Estos números son **solo una referencia narrativa** para comparar el poder entr
 
 | Tema | Estado | Detalle |
 |---|---|---|
-| Origen | ✅ Definido | En el brazo derecho que **Rojo le cortó** a Leo quedó **un resto de la esencia de la Espada del Caos**. Esa esencia **creó un cuerpo propio** con la misma apariencia que Leo. Usa armadura negra. |
+| Origen | ✅ Definido | En el brazo derecho que **Radamantho le cortó** a Leo quedó **un resto de la esencia de la Espada del Caos**. Esa esencia **creó un cuerpo propio** con la misma apariencia que Leo. Usa armadura negra. |
 | Conciencia | ✅ Definido | Tiene **conciencia propia**. |
 | Evolución | ✅ Definido | Siempre va **una fase por delante** de Leo durante el Capítulo 4. |
-| Final como personaje separado | ✅ Definido | Traicionado por Rojo, se **fusiona con Leo** en el Capítulo 5. Leo recupera su brazo. |
+| Final como personaje separado | ✅ Definido | Traicionado por Radamantho, se **fusiona con Leo** en el Capítulo 5. Leo recupera su brazo. |
 | ¿Tiene los recuerdos de Leo? | ❓ Abierto | |
 | Personalidad | ❓ Abierto | En desarrollo. |
 

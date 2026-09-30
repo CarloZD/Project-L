@@ -287,11 +287,11 @@ Sin embargo, el villano no era más que un instrumento de una fuerza vinculada a
 
 Después de la victoria, Leo intenta dominar ambas espadas, convencido de que puede controlar sus poderes.
 
-La Espada del Caos termina dominándolo, y Leo ataca a sus propios aliados creyendo que son enemigos. Rojo lo detiene cortándole el brazo derecho.
+La Espada del Caos termina dominándolo, y Leo ataca a sus propios aliados creyendo que son enemigos. Radamantho lo detiene cortándole el brazo derecho.
 
 Cuando recupera la conciencia, descubre que el escenario ha quedado destruido.
 
-Rojo, su líder, le explica que perdió el control mientras estaba bajo la influencia de la espada, provocando la muerte de varios de sus aliados y la destrucción del lugar.
+Radamantho, su líder, le explica que perdió el control mientras estaba bajo la influencia de la espada, provocando la muerte de varios de sus aliados y la destrucción del lugar.
 
 Como consecuencia, Leo es desterrado.
 

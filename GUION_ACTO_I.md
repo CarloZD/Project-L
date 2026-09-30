@@ -101,15 +101,15 @@
 
 *(En el centro, el retrato de un héroe de armadura roja.)*
 
-**Guía del gremio:** Y él es nuestro líder actual. Casi todos lo conocen como Rojo.
+**Guía del gremio:** Y él es nuestro líder actual: Radamantho.
 
-**Leo:** *(para sí)* Rojo...
+**Leo:** *(para sí)* Radamantho...
 
 **Guía del gremio:** A su derecha, Surger, maestro de las dos espadas y del rayo. A su izquierda, Stronger, el escudo del gremio.
 
 **[Juego]** Los retratos se pueden examinar.
 
-**Retrato de Rojo** *(si Leo lo examina)*:
+**Retrato de Radamantho** *(si Leo lo examina)*:
 **Narración:** «Heredó el gremio en tiempos difíciles y nunca ha dejado atrás a uno de los suyos.»
 
 **Retrato de Surger:**
@@ -260,9 +260,9 @@
 ## Escena 6. Nombrado por error
 
 **Lugar:** cámara de la prueba.
-**Personajes:** Leo, Rojo, Surger, Stronger, `[CANDIDATO]`, Cleo.
+**Personajes:** Leo, Radamantho, Surger, Stronger, `[CANDIDATO]`, Cleo.
 
-*(La puerta se abre de golpe. Entran Surger con las dos espadas desenvainadas y Stronger. Detrás, Rojo. Al final llega `[CANDIDATO]`, sin aliento.)*
+*(La puerta se abre de golpe. Entran Surger con las dos espadas desenvainadas y Stronger. Detrás, Radamantho. Al final llega `[CANDIDATO]`, sin aliento.)*
 
 **Surger:** ¡Quieto!
 
@@ -276,21 +276,21 @@
 
 **Leo:** ¡Lo siento! ¡Yo no quería! ¡Solo quería verla y la puerta se cerró y apareció una máquina y...!
 
-**Rojo:** Silencio.
+**Radamantho:** Silencio.
 
 *(Todos callan.)*
 
-**Rojo:** ¿Tu nombre?
+**Radamantho:** ¿Tu nombre?
 
 **Leo:** L... Leo.
 
-**Rojo:** Quítatela, Leo.
+**Radamantho:** Quítatela, Leo.
 
 **Leo:** Ya lo intenté. El sistema dice que es permanente.
 
-*(Rojo mira el panel de la cámara. Un largo silencio.)*
+*(Radamantho mira el panel de la cámara. Un largo silencio.)*
 
-**Rojo:** Lo es.
+**Radamantho:** Lo es.
 
 **Surger:** Entonces se la quitamos por la fuerza. Ese chico no ha entrenado un solo día en su vida. `[CANDIDATO]` lleva seis años aquí.
 
@@ -308,19 +308,19 @@
 
 **Cleo:** Estoy seguro de que no.
 
-**Rojo:** ¿Lo conoces?
+**Radamantho:** ¿Lo conoces?
 
 **Cleo:** Crecimos juntos. Es un buen chico. Un desastre, pero un buen chico.
 
-*(Rojo observa a Leo un momento más.)*
+*(Radamantho observa a Leo un momento más.)*
 
-**Rojo:** La armadura lo eligió. No podemos quitársela, y no vamos a dejar a alguien con una armadura suelta por Vértice en plena guerra.
+**Radamantho:** La armadura lo eligió. No podemos quitársela, y no vamos a dejar a alguien con una armadura suelta por Vértice en plena guerra.
 
-**Rojo:** Desde hoy perteneces al gremio, Leo. En el rango más bajo.
+**Radamantho:** Desde hoy perteneces al gremio, Leo. En el rango más bajo.
 
-**Surger:** Rojo, no puedes hablar en serio.
+**Surger:** Radamantho, no puedes hablar en serio.
 
-**Rojo:** Hablo en serio. *(a `[CANDIDATO]`)* Lo siento. Tendrás tu oportunidad.
+**Radamantho:** Hablo en serio. *(a `[CANDIDATO]`)* Lo siento. Tendrás tu oportunidad.
 
 **[CANDIDATO]:** *(aprieta los puños, luego respira)* ...Sí, señor.
 
@@ -332,49 +332,49 @@
 
 ---
 
-## Escena 7. Lo que Rojo no dice
+## Escena 7. Lo que Radamantho no dice
 
 **Lugar:** pasillo fuera de la cámara.
-**Personajes:** Rojo, Surger. *(Leo no está presente. El jugador ve la escena como espectador.)*
+**Personajes:** Radamantho, Surger. *(Leo no está presente. El jugador ve la escena como espectador.)*
 
 **Surger:** Esto es un error y lo sabes.
 
-**Rojo:** Claro que lo sé.
+**Radamantho:** Claro que lo sé.
 
 **Surger:** ¿Entonces?
 
-**Rojo:** Llevamos años perdiendo terreno contra los Guardianes. La gente está cansada. Tiene miedo.
+**Radamantho:** Llevamos años perdiendo terreno contra los Guardianes. La gente está cansada. Tiene miedo.
 
-**Rojo:** Una armadura que rechaza a un aspirante entrenado y escoge a un chico cualquiera... eso no es un error, Surger. Es una señal.
+**Radamantho:** Una armadura que rechaza a un aspirante entrenado y escoge a un chico cualquiera... eso no es un error, Surger. Es una señal.
 
 **Surger:** Es una mentira.
 
-**Rojo:** En tiempos de guerra, un símbolo vale más que un soldado.
+**Radamantho:** En tiempos de guerra, un símbolo vale más que un soldado.
 
-*(Rojo se aleja. Surger se queda solo.)*
+*(Radamantho se aleja. Surger se queda solo.)*
 
 **Surger:** *(para sí)* Un símbolo...
 
-**[Juego]** Primera pista del plan de Rojo. El jugador sabe más que Leo.
+**[Juego]** Primera pista del plan de Radamantho. El jugador sabe más que Leo.
 
 ---
 
 ## Escena 8. El elegido
 
 **Lugar:** plaza frente a la sede. Tarde.
-**Personajes:** Leo, Rojo, Cleo, Stronger, multitud.
+**Personajes:** Leo, Radamantho, Cleo, Stronger, multitud.
 
-*(La plaza está llena. En lo alto de la escalinata, Rojo. A su lado, Leo con la armadura puesta, rígido.)*
+*(La plaza está llena. En lo alto de la escalinata, Radamantho. A su lado, Leo con la armadura puesta, rígido.)*
 
-**Rojo:** ¡Ciudadanos de Vértice!
+**Radamantho:** ¡Ciudadanos de Vértice!
 
-**Rojo:** Hoy la armadura del gremio despertó y eligió a su portador. No al más fuerte ni al más preparado.
+**Radamantho:** Hoy la armadura del gremio despertó y eligió a su portador. No al más fuerte ni al más preparado.
 
-**Rojo:** Eligió a uno de ustedes.
+**Radamantho:** Eligió a uno de ustedes.
 
 *(Murmullos. Luego aplausos.)*
 
-**Rojo:** Mientras haya alguien dispuesto a dar un paso adelante, los Guardianes no tomarán esta ciudad.
+**Radamantho:** Mientras haya alguien dispuesto a dar un paso adelante, los Guardianes no tomarán esta ciudad.
 
 *(La multitud grita. Leo mira a la gente, confundido y, poco a poco, emocionado.)*
 

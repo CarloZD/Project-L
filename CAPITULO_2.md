@@ -15,7 +15,7 @@
 | **Leo** | ✅ Definido | Desterrado. Porta ambas espadas y usa la del Caos con su **brazo mecánico**. |
 | **Cleo** | ✅ Definido | **Construye el brazo mecánico** de Leo y lo **acompaña** de vuelta a la ciudad donde estaba el gremio. |
 | **Leo Sombrío** | ✅ Definido | Primera aparición. Intenta quedarse con ambas espadas. |
-| **Rojo** | ✅ Definido | **Ausente**: se encuentra en los **territorios de los Guardianes**. |
+| **Radamantho** | ✅ Definido | **Ausente**: se encuentra en los **territorios de los Guardianes**. |
 
 ---
 
@@ -49,11 +49,11 @@ Leo conserva la Espada del Caos.
 
 Al ayudar a los civiles y detener por el momento a Leo Sombrío, Leo **recupera algo de su reputación**, aunque algunos siguen llamándolo **asesino de los suyos** o **falso héroe**. Se convierte en el **protector de la ciudad**.
 
-### 5. Leo busca a Rojo 🟡
+### 5. Leo busca a Radamantho 🟡
 
-Sin la Luz como contrapeso, **el equilibrio tiene que salir de Leo mismo**. Decide buscar a Rojo para que lo entrene a dominar la Espada del Caos. Rojo está en los territorios de los Guardianes, donde Leo es considerado el enemigo.
+Sin la Luz como contrapeso, **el equilibrio tiene que salir de Leo mismo**. Decide buscar a Radamantho para que lo entrene a dominar la Espada del Caos. Radamantho está en los territorios de los Guardianes, donde Leo es considerado el enemigo.
 
-**Propuesta:** Rojo lo acepta, pero no por perdón: tener cerca a Leo y a la espada le conviene. Es el mismo patrón de usar aliados.
+**Propuesta:** Radamantho lo acepta, pero no por perdón: tener cerca a Leo y a la espada le conviene. Es el mismo patrón de usar aliados.
 
 ---
 
@@ -68,6 +68,6 @@ Sin la Luz como contrapeso, **el equilibrio tiene que salir de Leo mismo**. Deci
 
 ## Preguntas abiertas
 
-1. ¿Cómo conserva Leo la Espada del Caos tras el destierro, si en el Capítulo 1 Rojo la había llevado a custodiar?
+1. ¿Cómo conserva Leo la Espada del Caos tras el destierro, si en el Capítulo 1 Radamantho la había llevado a custodiar?
 2. ¿Qué personalidad muestra Leo Sombrío en este primer encuentro?
 3. ¿Qué hacen Leo y Cleo en la ciudad antes de que aparezca Sombrío?
