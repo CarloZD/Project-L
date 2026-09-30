@@ -24,6 +24,12 @@
 
 **Narración:** Y aunque nadie lo dice en voz alta, la ciudad lleva años en guerra.
 
+**Narración:** Una guerra que, como otras, ya perdió hasta el sentido de lucharla.
+
+**Narración:** Una guerra que carga más con lo ajeno que con lo suyo.
+
+**Narración:** Una guerra que cambia el destino de unos... y acaba el de otros.
+
 *(Fundido a la plaza de la sede. Mañana. Un grupo de estudiantes frente a la fuente.)*
 
 ---
